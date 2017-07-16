@@ -25,17 +25,17 @@ Big Data 101, all the foundations you need to bootstrap a new project in 2017
 Shift-Left: The role of the tester in a DevOps world
 Reactive Spring
 From Tic Tac Toe to AlphaGo: Playing games with AI and machine learning
-Kotlin – your 2017 Java replacement
+Kotlin - your 2017 Java replacement
 Cut me some Slack: The road to continuous learning and improvement
 Beyond Given/When/Then - why diving into Cucumber is the wrong approach to adopting BDD
 OpenJ9: Under the hood of the next open source JVM
 Do it yourself - How to create a successful Uber type ride sharing company in 30 days!
 Using actors for The Internet of (Lego) Trains 
-Git — the modern version control system
+Git - the modern version control system
 Managing secrets at scale
 Functional Programming in Java 8
 55 New Features In JDK 9
-On @annotations  -  liberate yourselves from demons
+On @annotations - liberate yourselves from demons
 A Hitchhiker’s Guide to the Cloud Native Stack
 Pragmatist’s Guide to Functional Geekery
 5 architectures of asynchronous JavaScript
@@ -74,12 +74,12 @@ Autoscaling in Kubernetes
 Find A Tech Job
 Deep Dive: Data Partitioning Details in Hazelcast
 Serverless computing with Google Cloud Functions
-TestContainers – integration testing without the hassle
+TestContainers - integration testing without the hassle
 10 tips to become an awesome Technical Lead
 The Future of Event-driven Microservices with Spring Cloud Stream
 WebAssembly
-Embrace failure – what can bring your system down
-Crash Coaching -  Agile coaching for dangerous feedback
+Embrace failure - what can bring your system down
+Crash Coaching - Agile coaching for dangerous feedback
 Domain-Driven Design with Actors
 Resilient Architecture
 Angular vs. React: Framework Smackdown
