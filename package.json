@@ -1,0 +1,8 @@
+{
+    "name": "whatdoipresent",
+    "version": "0.0.1",
+    "dependencies": {
+        "markov": "0.0.7",
+        "markov-chains": "1.0.2"
+    }
+}
