@@ -1,5 +1,8 @@
 {
-  "presets": [
-    ["env", { "modules": false }]
-  ]
+    "presets": [
+        ["env", { "modules": false }]
+    ],
+    "plugins": [
+        ["inline-json-import", {}]
+    ]
 }
