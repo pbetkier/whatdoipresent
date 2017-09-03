@@ -1,112 +1,112 @@
-The Silver Bullet Syndrome
-Principles Of Microservices
-What's Coming in Java EE 8
-Clean Architecture - how to improve your system architecture
+The silver bullet syndrome
+Principles of microservices
+What's coming in Java EE 8
+Clean architecture - how to improve your system architecture
 5-10-15 years with Java - from junior to master and back again
 From API to protocol
 Tips and tricks for clean relational db schemas
-High Performance JavaScript Web Apps
-"Bootiful" Applications with Spring Boot
-Functional patterns for scala beginners
+High performance JavaScript web apps
+"Bootiful" applications with Spring Boot
+Functional patterns for Scala beginners
 JRebel under the covers - how is it even possible?
-Preventing Analytics and Ads from polluting your codebase
-OnConnectionLost: The life of an offline web application
-You don’t run unit tests concurrently. Do you?
+Preventing analytics and ads from polluting your codebase
+OnConnectionLost - the life of an offline web application
+You don't run unit tests concurrently, do you?
 Does it have to be so complicated?
-Modern Web Architecture
-"Bootiful" Microservices with Spring Cloud
+Modern web architecture
+"Bootiful" microservices with Spring Cloud
 Corporate startup and Scala
 From spaghetti with no src/test to green CI, good coverage and well-sleeping developers
-Agile Development Meets Connected Devices - Lessons Learned
-Refactoring to Functional
-Security Platform as a Service with Docker and Weave
+Agile development meets connected devices - lessons learned
+Refactoring to functional
+Security platform as a service with Docker and Weave
 Modularity in post microservice world
 Apache Cassandra 101
-Using JavaScript/HTML5 Rich Clients with Java EE 7
+Using JavaScript/HTML5 rich clients with Java EE 7
 Technical leadership - from an expert to a leader
-A Gentle and useful introduction to Reactive Extensions
-You're an Architect... Now What?
+A gentle and useful introduction to reactive extensions
+You're an architect, now what?
 Is your profiler speaking the same language as you?
-Caching reboot: javax.cache & Ehcache 3
+Caching reboot - javax.cache & Ehcache 3
 Lessons learned from scaling software
-What's New in WildFly 9
+What's new in WildFly 9
 Nashorn, what is the whole buzz about
-Supler: complex web forms, not so complex
+Supler - complex web forms, not so complex
 Babun - a Windows shell you will love, finally!
-IDE Wizard? CLI Command? Get both for the price of one!
+IDE wizard? CLI command? Get both for the price of one!
 Vaadin Designer, the visual design tool for modern web apps
 Building systems that are #neverdone
 Groovier BDD with Spock
 Why software developers should care about deployment and monitoring
-Microservices and Conversion Hunting - How to build software architectures for changeableness
-Case Study: Agile @gov.pl
+Microservices and conversion hunting - how to build software architectures for changeableness
+Case study - agile @gov.pl
 Everybody lies
-Modern Java Component Design with Spring 4.2
+Modern Java component design with Spring 4.2
 10 NoSQL databases you have to know
-The Go Language
+The Go language
 OAuth2 for native apps and beyond
 Hystrix - managing failures in distributed systems
-Scalable Is Awesome, Literally!
+Scalable as awesome, literally!
 Unlocking the magic of monads in Java 8
-Need for Async: In hot pursuit of internet-scale app architectures
+Need for async - in hot pursuit of internet-scale app architectures
 Make sense of your (BIG) data!
 Failing Continuous Delivery
 Forgive me, for I have allocated
-What Can We Really Learn from Martial Arts?
-How to Participate in the Future of Java
-The Spring Framework Roadmap
-Vaadin Designer Hands-on Quickie
-Why you should version all your data in noSQL world; Think about data durability
-Functional Data Storage
-Flavors of Concurrency in Java
-Reviewing Architectures
+What can we really learn from martial arts?
+How to participate in the future of Java
+The Spring Framework roadmap
+Vaadin Designer hands-on quickie
+Why you should version all your data in noSQL world - think about data durability
+Functional data storage
+Flavors of concurrency in Java
+Reviewing architectures
 Designing software with security in mind?
 Vagrant up your enviroment
-Building an Asynchronous Reactive NoSQL SDK with RxJava
-Lazy Evaluations
+Building an asynchronous reactive NoSQL SDK with RxJava
+Lazy evaluations
 WebVR - democracy in Virtual Reality
 Microservices - enough with theory, let's code some
 Apache Spark - when things go wrong
-HTTP/2 : why upgrading the web?
+HTTP/2 - why upgrading the web?
 Clean JavaScript code - only dream or reality
-Get Past the Syntax, The Real Scare is in the Semantics
+Get past the syntax, the real scare is in the semantics
 Refactoring meets big money
-Painfree Object-Document Mapping for MongoDB
-Agile Project Management Anti-Patterns
+Painfree object-document mapping for MongoDB
+Agile project management anti-patterns
 The Spring BOF
 JCP, Adopt-a-JSR & You
-Everything Works In Java EE? Then Try Microservices :-)
+Everything Works In Java EE? Then try microservices :-)
 My running shoes - Continuous Delivery 
-Deploying Microservice Architectures with Spring Cloud on Cloud Foundry
-From Docker To Kubernetes: A Developer's Guide To Containers
-Java Bytecode Explained
+Deploying Microservice architectures with Spring Cloud on Cloud Foundry
+From Docker to Kubernetes - a developer's guide to containers
+Java bytecode explained
 PubSub++ - few tips that make your life with kafka easier.
-Core Software Design Principles for Programmers
-Building  fault tolerant microservices
-User Acceptance Testing  - Looking for the Holly Grail
+Core software design principles for programmers
+Building fault tolerant microservices
+User acceptance testing - looking for the Holly Grail
 Deep dive into Reactive Java
 What's new in Spring Data?
-Scala and Clojure: Playing well together.
-Social Coding - tools and techniques
+Scala and Clojure - playing well together.
+Social coding - tools and techniques
 Software architecture as code
-React.js: Super-fast Single Page Web Applications
+React.js - super-fast single page web applications
 Kill the mutants, test your tests
 Running Micro-Services with Spring Boot in Kubernetes
-The end of server management : hosting have to become a commodity
-Event Sourcing & Functional Programming - a pair made in heaven
-Debugging your Legacy
+The end of server management - hosting have to become a commodity
+Event Sourcing & Functional programming - a pair made in heaven
+Debugging your legacy
 Watch out, the REPL is coming
 How great entrepreneurs think
-Functional Programming: Technical Reasons to Adapt
-8 Lines of Code
+Functional programming - technical reasons to adapt
+8 lines of code
 Level up your dev skills with static analysis
-The Smartwatch Revolution begins: Developing for Android Wear
+The Smartwatch revolution begins - developing for Android Wear
 Effective SCRUM in distributed teams
 Applications secure by default.
-Coding Culture
-Busy Java Developer’s Guide to Three REST API Frameworks
+Coding culture
+Busy Java developer's guide to three REST API frameworks
 Things about microservices you wish you never knew
 Distributed algorithms for Big Data
 Why I love Logstash and you should too.
 BigData on Azure for architects - Machine Learning, HDInsight (Hadoop), Event Hub - what to use when (and - how)
-The Creative Networker
+The creative networker
