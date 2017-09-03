@@ -1,30 +1,38 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+    <h2>Don't know what to present? How about...</h2>
+    <h1>{{ this.talk  }}</h1>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
-      <li><a href="https://gitter.im/vuejs/vue" target="_blank">Gitter Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
-    </ul>
-    <h2>Ecosystem</h2>
-    <ul>
-      <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
-      <li><a href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
-      <li><a href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
+      <li><a @click="nextTalk" href="#">this sucks, give me something else</a></li>
     </ul>
   </div>
 </template>
 
 <script>
+
+import data from './devoxx-markov.json'
+import Chain from 'markov-chains'
+
 export default {
   name: 'app',
-  data () {
+  mounted() {
+    this.chain = Chain.fromJSON(JSON.stringify(data));
+    window.addEventListener('keyup', e => {
+      if (e.keyCode === 13 || e.keyCode === 32) { 
+        this.nextTalk();
+      }
+    });
+    this.nextTalk();
+  },
+  methods: {
+    nextTalk() {
+      this.talk = this.chain.walk().join(" ");
+    }
+  },
+  data() {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      talk: "",
+      chain: undefined
     }
   }
 }
@@ -44,14 +52,20 @@ h1, h2 {
   font-weight: normal;
 }
 
+h1 {
+  margin-top: 60px;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
+  margin: 120px;
 }
 
 li {
   display: inline-block;
   margin: 0 10px;
+  font-size: 1.4em;
 }
 
 a {
