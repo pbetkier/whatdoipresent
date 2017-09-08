@@ -20,7 +20,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ## to-do
 
 * no talks same as in corpus
-* lowercase data
 * clean separators in data
-* experiment with state size
 * data from devoxx be
+* credits
+* domain

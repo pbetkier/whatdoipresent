@@ -26,13 +26,16 @@ export default {
   },
   methods: {
     nextTalk() {
-      while (true) {
+      let rounds = 0;
+      while (rounds < 5) {
         const walk = this.chain.walk();
         if (walk.length > 1) {
             this.talk = walk.join(" ");
-            break;
+            return;
         }
+        rounds += 1;
       }
+      this.talk = "*** could not generate talks, this shit ain't working... ***";
     }
   },
   data() {
