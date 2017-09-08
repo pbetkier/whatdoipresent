@@ -50,18 +50,18 @@ Scalable as awesome, literally!
 Unlocking the magic of monads in Java 8
 Need for async - in hot pursuit of internet-scale app architectures
 Make sense of your (BIG) data!
-Failing Continuous Delivery
+Failing continuous delivery
 Forgive me, for I have allocated
 What can we really learn from martial arts?
 How to participate in the future of Java
 The Spring Framework roadmap
 Vaadin Designer hands-on quickie
-Why you should version all your data in noSQL world - think about data durability
+Why you should version all your data in NoSQL world - think about data durability
 Functional data storage
 Flavors of concurrency in Java
 Reviewing architectures
 Designing software with security in mind?
-Vagrant up your enviroment
+Vagrant up your environment
 Building an asynchronous reactive NoSQL SDK with RxJava
 Lazy evaluations
 WebVR - democracy in Virtual Reality
@@ -76,37 +76,37 @@ Agile project management anti-patterns
 The Spring BOF
 JCP, Adopt-a-JSR & You
 Everything Works In Java EE? Then try microservices :-)
-My running shoes - Continuous Delivery 
-Deploying Microservice architectures with Spring Cloud on Cloud Foundry
+My running shoes - continuous delivery
+Deploying microservice architectures with Spring Cloud on Cloud Foundry
 From Docker to Kubernetes - a developer's guide to containers
 Java bytecode explained
-PubSub++ - few tips that make your life with kafka easier.
+PubSub++ - few tips that make your life with Kafka easier
 Core software design principles for programmers
 Building fault tolerant microservices
 User acceptance testing - looking for the Holly Grail
-Deep dive into Reactive Java
+Deep dive into reactive Java
 What's new in Spring Data?
-Scala and Clojure - playing well together.
+Scala and Clojure - playing well together
 Social coding - tools and techniques
 Software architecture as code
 React.js - super-fast single page web applications
 Kill the mutants, test your tests
-Running Micro-Services with Spring Boot in Kubernetes
+Running microservices with Spring Boot in Kubernetes
 The end of server management - hosting have to become a commodity
-Event Sourcing & Functional programming - a pair made in heaven
+Event Sourcing & functional programming - a pair made in heaven
 Debugging your legacy
 Watch out, the REPL is coming
 How great entrepreneurs think
 Functional programming - technical reasons to adapt
 8 lines of code
 Level up your dev skills with static analysis
-The Smartwatch revolution begins - developing for Android Wear
+The smartwatch revolution begins - developing for Android Wear
 Effective SCRUM in distributed teams
-Applications secure by default.
+Applications secure by default
 Coding culture
 Busy Java developer's guide to three REST API frameworks
 Things about microservices you wish you never knew
 Distributed algorithms for Big Data
-Why I love Logstash and you should too.
+Why I love Logstash and you should too
 BigData on Azure for architects - Machine Learning, HDInsight (Hadoop), Event Hub - what to use when (and - how)
 The creative networker

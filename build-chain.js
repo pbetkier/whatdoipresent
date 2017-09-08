@@ -1,4 +1,4 @@
-var fs = require('fs')
+var fs = require('fs');
 var Chain = require('markov-chains').default;
 
 var devoxx17 = fs.readFileSync('data/devoxx17').toString().split("\n");
@@ -8,4 +8,4 @@ var array = devoxx17.concat(devoxx16).concat(devoxx15);
 var corpus = array.map((str) => str.split(' '));
 
 var c = new Chain(corpus);
-fs.writeFile("devoxx-markov.json", JSON.stringify(c));
+fs.writeFile("src/devoxx-markov.json", JSON.stringify(c));

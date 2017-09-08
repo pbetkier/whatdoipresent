@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h2>Don't know what to present? How about...</h2>
-    <h1>{{ this.talk  }}</h1>
+    <h2>Don’t know what to present at a tech conf? Whatever, just talk about...</h2>
+    <h1>{{ this.talk }}</h1>
     <ul>
       <li><a @click="nextTalk" href="#">this sucks, give me something else</a></li>
     </ul>
@@ -26,7 +26,13 @@ export default {
   },
   methods: {
     nextTalk() {
-      this.talk = this.chain.walk().join(" ");
+      while (true) {
+        const walk = this.chain.walk();
+        if (walk.length > 1) {
+            this.talk = walk.join(" ");
+            break;
+        }
+      }
     }
   },
   data() {
