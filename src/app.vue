@@ -75,12 +75,13 @@ h1, h2 {
 
 h1 {
   margin-top: 60px;
+  min-height: 100px;
 }
 
 ul {
   list-style-type: none;
   padding: 0;
-  margin: 120px;
+  margin: 40px;
 }
 
 li {
