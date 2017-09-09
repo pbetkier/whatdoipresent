@@ -1,0 +1,107 @@
+Why does yesterday's best practice become tomorrow's anti-pattern?
+Coding microservices effectively
+Cloud Native Java
+Continuous integration for web & JavaScript projects
+The good monolith - bounded contexts in practice
+The physical world meets the web
+Beyond lambdas - the aftermath
+React.js - a modern web framework
+Real-world analytics with Solr Cloud and Spark
+Hotspot & AOT
+Blockchain and distributed ledgers for developers
+Pwn'ed within 48 hours
+Data warehousing on Hadoop - one important DON'T and a few DOs
+Passwords - do you keep them safe?
+How to walk a process - controlling LEGO MINDSTORMS using BPMN
+Why functional programming matters
+Getting hip with JHipster
+Successful startup is not enough - you must scale technology to enterprise while maintaining your startup creativity
+Building a full-automated fast data platform
+Anti-fragile architectures
+A practical RxJava example with Ratpack
+Building common libraries and not failing at it
+Tips & tricks for a Java team
+Microservices minus the hype - how to build and why
+Java libraries you can't afford to miss
+JVM dive for mere mortals
+Project Jigsaw in JDK 9 - modularity comes to Java
+40 tips & tricks for Spring in IntelliJ IDEA
+How to survive and thrive in a BigCo
+Reactive fault tolerant programing with Hystrix and RxJava
+2FA, WTF?
+Continuous improvement, developing yourself and others
+Real-time mapping with the drone
+The Spring BOF
+DevOps assessment workshop - how to achieve quick returns with speed in Application delivery?
+Data warehousing on Hadoop - after a few months in production
+The state of asynchronous programming in Java - completable or reactive Future?
+Understanding microservice performance
+A post-apocalyptic sun.misc.Unsafe world
+Developer, develop yourself!
+Easily scale up your JEE stack with Docker&Co - battlefield notes - join the winners!
+The error handling approaches
+Evolutionary architectures
+Going reactive
+New Cassandra 3 features that change your (developer) life
+REST in peace
+Reactive microservices with DDD and Actors
+Better ways of developing software or coding like a unicorn
+Ten lessons I painfully learnt while moving from software developer to entrepreneur/CEO role
+The illusion of statelessness
+Machine learning for developers
+Annotation processor, the power of byte code manipulation without its guru dark side
+Reverse engineering the clean code
+Sputnik CI - kill all bugs
+Preconditions for good code review
+Angular 2
+Data consistency - analyse, understand and decide
+Scale your application out!
+Security in the era of modern applications and services
+You can do better with Kotlin
+Functional data structures with Java 8
+The Java developers' guide to asynchronous programming
+The future of generics in Java
+NOW TV and linear streaming - the unpredictable scalability challenge
+Practical proxy deep dive
+Using the G1GC
+This stuff is cool, but HOW CAN I GET MY COMPANY TO DO IT??!
+Tracking huge files with Git LFS
+Immutable infrastructure - rise of the machine images
+How to create a new JVM language in under an hour
+The pendulum
+Getting started with Angular 2
+Thread dump analysis with Dumpling
+gRPC 101 for Java developers
+Find a tech job
+Finding your perfect weather with Apache Spark, Docker and IBM Bluemix
+Ehcache out of his element
+Shape your infrastructure with Terraform
+JUnit 5 - next generation testing on the JVM
+Coding a better world
+Continuous delivery with Kubernetes @Sky
+Use Big Data to speed up your continuous delivery pipeline
+Lean startup for developers conference
+Microservices and Conway's Law
+How to lie (to yourself) about performance
+Comment your &*$# code!
+Faster Java by adding structs (sort of)
+Scaling with Kubernetes, automatically! Learn Kubernetes API through writing a visualizer to an autoscaler
+oDDs & enDs
+Highway to heaven - building microservices in the cloud
+Transformative Git practices - new techniques for hyper-productivity
+Why I use Groovy and why I don't like it
+Business vs IT - how to avoid delays in deadlines
+Accurest - throw away your integration tests
+Java 9 compiler integration
+Code review - how to do it better?
+A peak inside the JIT
+The JVM and Docker, a good idea?
+Enterprise IT is dead, long live enterprise IT!
+Creating Star Wars - lightsaber escape
+Microservices tracing with Spring Cloud and Zipkin
+The climb
+Breaking the limits of the web
+Scaling engineering at LinkedIn California
+Failure is an option
+Jenkins as a code
+Pragmatic architecture

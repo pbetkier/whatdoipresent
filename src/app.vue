@@ -10,32 +10,44 @@
 
 <script>
 
-import data from './devoxx-markov.json'
 import Chain from 'markov-chains'
+import dataset from './data/dataset'
 
 export default {
   name: 'app',
   mounted() {
-    this.chain = Chain.fromJSON(JSON.stringify(data));
-    window.addEventListener('keyup', e => {
-      if (e.keyCode === 13 || e.keyCode === 32) { 
-        this.nextTalk();
-      }
-    });
+    this.buildChain();
+    this.registerHotkeys();
     this.nextTalk();
   },
   methods: {
     nextTalk() {
       let rounds = 0;
       while (rounds < 5) {
-        const walk = this.chain.walk();
-        if (walk.length > 1) {
-            this.talk = walk.join(" ");
-            return;
+        const candidate = this.chain.walk();
+        if (candidate.length > 1) {
+            const candidateTalk = candidate.join(" ");
+            if (!this.dataset.has(candidateTalk)) {
+              this.talk = candidateTalk;
+              return;
+            }
         }
         rounds += 1;
       }
       this.talk = "*** could not generate talks, this shit ain't working... ***";
+    },
+    buildChain() {
+      console.log(dataset);
+      const corpus = Array.from(dataset).map((str) => str.split(' '));
+      this.chain = new Chain(corpus);
+      this.dataset = dataset;
+    },
+    registerHotkeys() {
+      window.addEventListener('keyup', e => {
+        if (e.keyCode === 13 || e.keyCode === 32) {
+          this.nextTalk();
+        }
+      });
     }
   },
   data() {

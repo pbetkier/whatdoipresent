@@ -15,7 +15,7 @@
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
-    "babel-plugin-inline-json-import": "^0.2.1",
+    "babel-plugin-inline-import": "^2.0.6",
     "babel-preset-env": "^1.5.1",
     "cross-env": "^3.0.0",
     "css-loader": "^0.25.0",

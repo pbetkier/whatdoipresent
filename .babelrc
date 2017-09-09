@@ -3,6 +3,6 @@
         ["env", { "modules": false }]
     ],
     "plugins": [
-        ["inline-json-import", {}]
+        ["babel-plugin-inline-import", {"extensions": [".txt"]}]
     ]
 }
