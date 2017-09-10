@@ -5,6 +5,11 @@
     <ul>
       <li><a @click="nextTalk" href="#">this sucks, give me something else</a></li>
     </ul>
+    <div>
+      <p>
+        Created by <a href="https://twitter.com/piotrbetkier">@piotrbetkier</a> using reactive deep learning functions or <a href="https://github.com/pbetkier/whatdoipresent">some shit</a>.
+      </p>
+    </div>
   </div>
 </template>
 
@@ -74,7 +79,7 @@ h1, h2 {
 }
 
 h1 {
-  margin-top: 60px;
+  margin: 60px;
   min-height: 100px;
 }
 

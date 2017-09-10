@@ -21,5 +21,3 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 * clean separators in data
 * data from devoxx be
-* credits
-* domain
