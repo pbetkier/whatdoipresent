@@ -42,7 +42,6 @@ export default {
       this.talk = "*** could not generate talks, this shit ain't working... ***";
     },
     buildChain() {
-      console.log(dataset);
       const corpus = Array.from(dataset).map((str) => str.split(' '));
       this.chain = new Chain(corpus);
       this.dataset = dataset;
