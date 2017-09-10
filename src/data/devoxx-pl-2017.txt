@@ -62,7 +62,7 @@ The language of actors
 Betting on performance - a note on hypothesis driven performance testing
 Google Dataflow - the new open model for batch and stream processing
 Ratpack - Future<Server.HTTP<Java>>
-Boost your skills with Open Source
+Boost your skills with open source
 Learning to fly
 Java performance puzzlers
 360° monitoring of your microservices
@@ -76,7 +76,7 @@ Deep dive - data partitioning details in Hazelcast
 Serverless computing with Google Cloud Functions
 TestContainers - integration testing without the hassle
 10 tips to become an awesome technical lead
-The future of event-driven microservices with Spring Cloud Stream
+The future of event driven microservices with Spring Cloud Stream
 WebAssembly
 Embrace failure - what can bring your system down
 Crash coaching - agile coaching for dangerous feedback

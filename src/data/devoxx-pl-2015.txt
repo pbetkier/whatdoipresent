@@ -49,7 +49,7 @@ Hystrix - managing failures in distributed systems
 Scalable as awesome, literally!
 Unlocking the magic of monads in Java 8
 Need for async - in hot pursuit of internet-scale app architectures
-Make sense of your (BIG) data!
+Make sense of your BIG data!
 Failing continuous delivery
 Forgive me, for I have allocated
 What can we really learn from martial arts?
@@ -74,7 +74,7 @@ Refactoring meets big money
 Painfree object-document mapping for MongoDB
 Agile project management anti-patterns
 The Spring BOF
-JCP, Adopt-a-JSR & You
+JCP, Adopt-a-JSR & you
 Everything Works In Java EE? Then try microservices :-)
 My running shoes - continuous delivery
 Deploying microservice architectures with Spring Cloud on Cloud Foundry
@@ -108,5 +108,5 @@ Busy Java developer's guide to three REST API frameworks
 Things about microservices you wish you never knew
 Distributed algorithms for Big Data
 Why I love Logstash and you should too
-BigData on Azure for architects - Machine Learning, HDInsight (Hadoop), Event Hub - what to use when (and - how)
+BigData on Azure for architects - Machine Learning, HDInsight Hadoop, Event Hub - what to use when and how
 The creative networker

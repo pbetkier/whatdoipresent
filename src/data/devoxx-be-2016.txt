@@ -1,0 +1,214 @@
+Codelab - Tensorflow and deep learning - without a PhD
+Getting started with Hyperledger (Blockchain) in the Cloud  
+Java on mobile - write once, run on iOS & Android
+Be productive with JHipster 
+Developing reactive applications with reactive streams and Java 8
+JavaFX in action
+Progressive web apps with Polymer
+Managing Cloud Native applications with Kubernetes - end-to-end
+Deep Learning - an introduction
+Java 9 modularity in action
+It's a kind of magic - under the covers of Spring Boot
+Ehcache out of his element
+Make CSS fun again with Flexbox!
+Configuration management with Spring
+Elasticsearch + Hibernate - from artisanal to industrial integration
+Serverless microservices with Google Cloud Functions
+Easily secure your front and back applications with KeyCloak
+Do you really want to go fully micro?
+And the beats go on!
+Going global with Nomad and Google Cloud Platform
+Binge-streaming your web API
+Java 9 and the impact on Maven projects
+Sentiment analysis of social media posts using Apache Spark
+Gradle meets Kotlin
+Supercharge your web app with the new Firebase
+Behavior driven development in Java with JGiven
+Apache Spark? If only it worked
+The modern view on implementation of classic design patterns in Java
+OCI & runC - a developer's playground for constructing containers
+I know why your Java is slow
+Opinionated containerized microservices with the Netflix stack
+Hands-on with Kubernetes - from basic to advanced features
+Become an expert in webscraping (data extraction)
+Array Linked to a List, the full story!
+Java EE, TypeScript and Angular2
+Reactive programming
+Decomposing a Java EE monolith into WildFly Swarm microservices
+Let's React - the workshop
+Modular development with JDK 9
+Nuts and bolts of Docker
+Exploring Java 9
+Deep dive into Watson's Neural Networks
+Composite builds with Gradle
+Javaslang - functional Java done right
+The end of polling - why and how to transform a REST API into a data streaming API?
+Running Docker in production on AWS
+How to test your awesome iOS mobile application? 
+SerenityJS - next generation acceptance testing for AngularJS in TypeScript
+Prometheus monitoring for Java developers
+Open Sesame! Conversations with my front door
+Djinni in a bottle - easily share code between iOS and Android using C++
+What can you learn from thousands of source files in Github?
+JUnit 5 - next generation testing on the JVM
+Feign in action
+Embedded Rust – Rust on IoT devices
+Notes on type theory for absolute beginners 
+Maven - your ultimate CD tool
+Avoid the headaches – make your asynchronous code look synchronous!
+Performance tuning clinic
+The Java Community Process - advance your career and help define Java's future 
+Writers write! The documentation BOF
+DevOps - state of the union
+Everything your mother should know about compilers
+Microservices and the PaaS - a true love story
+Property based testing for everyone
+Security and microservices
+Elegant builds at scale with Gradle 3.0
+BPMN plus DMN - combining workflows and decisions
+Twelve ways to make code suck less
+Advanced Spring Data REST
+People, platforms and pipelines
+The road to Node Package Manager hell
+A MicroProfile for microservices
+Algebraic data types for fun and profit
+Having fun with robots using microservices on Docker and Kubernetes
+Crowdsourcing knowledge - write for Voxxed
+Hot.orElse(Not)
+Modern web development using Aurelia
+Stupid REPL tricks - an introduction to JShell for Java developers
+15 Kubernetes features in 15 minutes
+From monolithic app server to micro profile app server
+It's Java Jim, but not as we know it
+Billions of lines of code in a single repository, SRSLY?
+Sharing 2 years experience using Scala in a real project by a Java team
+Artificial Intelligence - the near future of software development
+Modular monoliths
+Containers, VMs, processes...  how all of these technologies work? Deep dive and learn about your OS
+Reactive machine learning on and beyond the JVM
+Designing for performance
+Progressive web apps
+In-memory data revenge - the substrate between apps and data - an Infinispan case
+Why you should really care about the blockchain
+Get started writing TypeScript today!
+Introduction to modular development
+100% Stateless with JWT (JSON Web Token)
+Using machine learning to enhance your apps
+g ∘ f patterns
+The JVM and Docker - a good idea?
+Java EE 8 and Java EE 9 - what's coming?
+"Right Size" your services with WildFly Swarm
+Ask the JDK architects
+Better performance with HTTP/2
+Testing legacy code
+Building secure software with OWASP
+Authentication and authorization in a Cloud and microservice world
+How Google DeepMind conquered the game of Go
+Clojure web application 101
+Cloud Native Java
+Unikernels and Docker - from revolution to evolution
+Wait, what!? Our microservices have actual human users?
+Introduction to gRPC - a general RPC framework that puts mobile and HTTP/2 first
+You always dreamt of your own quantum computer - now you can have it in the Cloud
+Deep dive into JUnit 5
+Just enough app server
+Terracotta Ehcache - simpler, faster, distributed
+The Java pub quiz
+The Spring BOF
+The Devoxx Tweetwall - past, present, future
+Microprofile.io - an open community discussion
+Streams in JDK 8 - the good, the bad and the ugly
+Programming your body with chip implants
+Javaslang - functional Java the easy way
+Advanced modular development
+How Angular makes the mobile web awesome
+Cloud Native streaming and event driven microservices
+Effective service API design 
+The new JDK HTTP client API
+Delivering better and faster microservices and mobile apps
+How to create a new JVM language in under an hour
+Introducing the MicroProfile
+Optional - the mother of all bikesheds
+Mission to Mars - exploring new worlds with AWS IoT
+Distributed commit logs with Apache Kafka
+Microservices evolution - how to break your monolithic database
+Docker security for developers
+The Java, the Javascript, and the future
+Fast cars, Big Data - how streaming can help Formula 1
+DevOps on Android - from one Git push to a Play Store release
+Docker for developers and ops - what's new and what's next
+Are you botching the security of your AngularJS application?
+A tour of the advanced Akka features in 60 minutes
+Java Collections - the force awakens
+A crash course in modern hardware
+Continuous delivery at GitHub
+Why we need diversity
+Functional programming - it sounds awful
+How to choose the right web framework?
+Devoxx, where wireless dreams comes true
+Why computers calculate wrong
+Talk to your home!
+Eddystone, the open location beacon standard
+DROP DB – simple event sourcing for simple aliens
+The ISS position in real time on my mobile in less than 15min - yes, we can
+Anti anti-patterns
+Modern day software delivery - getting the terminology straight
+Hacker's guide to coffee (Java)
+What users want
+Mood driven development
+Become a king with Kong
+Introducing JSR 354 - the Money & Currency API
+Mobycraft - manage Docker containers using Minecraft
+NoOps in the cloud
+Testing time in Java
+The power of real-time machine learning
+Java Sutra
+How to build your own self-driving car
+It is tough to be an application in 2016 - Lagom can help
+Effective Android dev
+Machine learning for developers
+Java on Google Cloud Platform
+Debugging distributed systems
+Refactoring to Java 8
+Declarative thinking, declarative practice
+Cloud native development
+Android architecture blueprints
+Developing for Smart TVs
+Google Dataflow - the new open model for batch and stream processing
+Elixir - easy fun for busy developers
+Rust as a support language
+Zen & the art of Angular 2
+Project Jigsaw - under the hood
+Oops, I broke my API
+Swift - the mobile language that's coming to the cloud
+Anticipating Java 9 - functionality and tooling
+Graph databases and the "panama papers"
+What's NOT new in modular Java
+Java on mobile, WORA at your fingertips
+Migrate your traditional VM-based clusters to containers
+Machine intelligence at Google scale - Vision/Speech API, TensorFlow and Cloud Machine learning
+Combining 2 clouds - an end-to-end DevOps demo
+Functional patterns for scala practitionners
+Sherlock, a Watson Cognitive Computing use case
+Machine learning for developers - dive deeper
+Reactive microservices with Vert.x
+Develop faster with an open source microservices platform based on Docker, Kubernetes and Jenkins
+Lambda puzzlers
+A JVM does that?
+Devoxx4Kids BOF
+10 SQL tricks that you didn't think were possible
+The Java Council
+More Java community insider secrets!
+Riding the jet streams
+Patterns and anti-patterns in Docker image lifecycle
+Java language and platform futures - a sneak peak
+Reactive web applications with Spring 5
+Testing made sweet with a Mockito
+Reactive streams principles applied in Akka Streams
+Flying services with the drone
+Thinking in parallel
+CDI 2.0 is upon us
+Netty - one framework to rule them all
+Building chat bots - the next gen UI
+ScreenPlay - the next stage in automated acceptance testing 
+Modular web applications using Across and Spring
