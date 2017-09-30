@@ -11,11 +11,11 @@ Conversational Bots - Amazon Lex, Microsoft Bot and Google Assistant
 Collectors in the wild!
 Neural networks - walkthrough
 Easy microservices with JHipster
-Slice & dice your monolith with Domain driven design 
+Slice & dice your monolith with Domain driven design
 Behavior driven integration with Cucumber and Citrus
 From Java bytecode to instant class diagrams with Class Visualizer
 Exploring open data with BigQuery
-Java9 and REPL - forget debugging, welcome joy and productivity.
+Java9 and REPL - forget debugging, welcome joy and productivity
 Much robots, very Java, so IoT
 Prometheus monitoring for Java web applications w/o modifying source code
 Design patterns with Kotlin
@@ -39,8 +39,8 @@ Empathetic communication at work
 Zuse ♥ Heisenberg - quantum computers for everyone!
 Serverless datastream processing
 Building apps with React Native
-Building Cloud Native progressive web apps  
-Angular applied 
+Building Cloud Native progressive web apps
+Angular applied
 Exploring Java 9 - the key parts
 Quantum computing exposed - deep dive
 Testing serverless Java apps and lambda functions
@@ -115,7 +115,7 @@ Devoxx4Kids state of the union
 Celebrating the release of JUnit 5
 Digitizing your grand dads old films with a PI
 Java 8 - the good, the bad and the ugly
-Spinnaker - get control over your deployements 
+Spinnaker - get control over your deployements
 Java EE 8 - what's new in the Java EE 8 release
 Lazy Java
 Safer apps from Docker security building blocks
@@ -134,7 +134,7 @@ Going Reactive with Spring 5 & Project Reactor
 The diabolical developer's guide to perfomance tuning
 Globally distributed software engineering - the good, the bad and the ugly
 Next generation asynchronous patterns in JavaScript
-Buzzword driven development 
+Buzzword driven development
 Cryptocurrencies and blockchain are taking over
 Cloud app developers and PaaS - a love / hate / love affair
 AI self-learning game playing
@@ -157,8 +157,8 @@ How to scale your app in minutes with container and AWS ECS
 Business parameters - a framework for managing complex configuration
 Using Kotlin to implement clean architecture
 Deep learning to fly
-Code your logic - not your infrastructure 
-Spring Boot 2.0 web applications
+Code your logic - not your infrastructure
+Spring Boot 2.0 web application
 Ask the JDK architects
 Microservices data patterns - CQRS & Event Sourcing
 Reliable and maintainable webdriver tests

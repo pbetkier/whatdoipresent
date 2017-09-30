@@ -1,7 +1,7 @@
 Codelab - Tensorflow and deep learning - without a PhD
-Getting started with Hyperledger (Blockchain) in the Cloud  
+Getting started with Hyperledger (Blockchain) in the Cloud
 Java on mobile - write once, run on iOS & Android
-Be productive with JHipster 
+Be productive with JHipster
 Developing reactive applications with reactive streams and Java 8
 JavaFX in action
 Progressive web apps with Polymer
@@ -44,7 +44,7 @@ Composite builds with Gradle
 Javaslang - functional Java done right
 The end of polling - why and how to transform a REST API into a data streaming API?
 Running Docker in production on AWS
-How to test your awesome iOS mobile application? 
+How to test your awesome iOS mobile application?
 SerenityJS - next generation acceptance testing for AngularJS in TypeScript
 Prometheus monitoring for Java developers
 Open Sesame! Conversations with my front door
@@ -53,11 +53,11 @@ What can you learn from thousands of source files in Github?
 JUnit 5 - next generation testing on the JVM
 Feign in action
 Embedded Rust – Rust on IoT devices
-Notes on type theory for absolute beginners 
+Notes on type theory for absolute beginners
 Maven - your ultimate CD tool
 Avoid the headaches – make your asynchronous code look synchronous!
 Performance tuning clinic
-The Java Community Process - advance your career and help define Java's future 
+The Java Community Process - advance your career and help define Java's future
 Writers write! The documentation BOF
 DevOps - state of the union
 Everything your mother should know about compilers
@@ -92,7 +92,7 @@ In-memory data revenge - the substrate between apps and data - an Infinispan cas
 Why you should really care about the blockchain
 Get started writing TypeScript today!
 Introduction to modular development
-100% Stateless with JWT (JSON Web Token)
+100% Stateless with JWT
 Using machine learning to enhance your apps
 g ∘ f patterns
 The JVM and Docker - a good idea?
@@ -123,7 +123,7 @@ Javaslang - functional Java the easy way
 Advanced modular development
 How Angular makes the mobile web awesome
 Cloud Native streaming and event driven microservices
-Effective service API design 
+Effective service API design
 The new JDK HTTP client API
 Delivering better and faster microservices and mobile apps
 How to create a new JVM language in under an hour
@@ -210,5 +210,5 @@ Thinking in parallel
 CDI 2.0 is upon us
 Netty - one framework to rule them all
 Building chat bots - the next gen UI
-ScreenPlay - the next stage in automated acceptance testing 
+ScreenPlay - the next stage in automated acceptance testing
 Modular web applications using Across and Spring
