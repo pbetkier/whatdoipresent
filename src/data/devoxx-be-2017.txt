@@ -1,0 +1,191 @@
+Personal productivity lab - optimizing made personal
+Streaming data workshop
+Serverless deep dive
+Kotlin deep dive
+Testing Java microservices
+Advances in machine learning explained for software engineers
+From Spring Boot 1 in Java to Spring Boot 2 in Kotlin
+Building a practical Blockchain with Hyperledger Fabric
+Event storming a DDD/Microservice landscape using post-it's and markers
+Conversational Bots - Amazon Lex, Microsoft Bot and Google Assistant
+Collectors in the wild!
+Neural networks - walkthrough
+Easy microservices with JHipster
+Slice & dice your monolith with Domain driven design 
+Behavior driven integration with Cucumber and Citrus
+From Java bytecode to instant class diagrams with Class Visualizer
+Exploring open data with BigQuery
+Java9 and REPL - forget debugging, welcome joy and productivity.
+Much robots, very Java, so IoT
+Prometheus monitoring for Java web applications w/o modifying source code
+Design patterns with Kotlin
+AI and Minecraft
+Not all equals methods are created equal
+Command line curiosities - making the terminal sing
+Asciidoctor - new, noteworthy and beyond
+Reliability and resilience in the cloud - experiments with Google Genomics and Cloud Foundry
+Developing Java applications using Visual Studio Code
+Introducing the mobile PerfSDK
+DevOps - state of the union
+The evolution of push at Uber
+Code quality metrics in a microservices environment
+Robot (Maze Runner) wars
+Building for Alexa with Web API
+Getting started with ethereum solidity development
+Baking a microservice PI(e)
+Deep dive into deep learning with MXNet
+Parallel and asynchronous programming with streams and CompletableFuture
+Empathetic communication at work
+Zuse ♥ Heisenberg - quantum computers for everyone!
+Serverless datastream processing
+Building apps with React Native
+Building Cloud Native progressive web apps  
+Angular applied 
+Exploring Java 9 - the key parts
+Quantum computing exposed - deep dive
+Testing serverless Java apps and lambda functions
+Cloud Native with Spring Boot on Google Cloud Platform
+Prepare for JDK 9
+But there is no web component for that!
+Easily secure and add Identity Management to your Spring Boot applications
+Mobile applications that can see
+30 Jenkins features and plugins you wished you had known about before!
+WebHooks vs WebSub - which one to stream your events in real time?
+No-frills REST API testing with REST-Assured
+Deploying Spring Boot apps on Kubernetes
+Apache NetBeans!
+Fast reliable Swift builds with Buck
+Java performance tuning clinic
+Building the Devoxx chatbot
+Build your own photo-booth
+BotCommons - metadata for bots
+CERN from an IT perspective
+Move slow and mend things
+Using Android Things to detect & exterminate Reptilians
+Safely shoot yourself in the foot with Java 9
+Build, deploy, debug and tune serverless microservices
+The impact of leveraging open source
+Kotlin for Java programmers
+A year of mob programming - tips and tricks
+Serverless machine learning - a beginner's guide
+Sencha Ext JS - a framework for building enterprise data-intensive web applications
+Progressive DevOps approach using Ansible
+What developers should know about design
+Migrating to Java 9 modules with ModiTect
+7 essential softskill survival secrets for developers
+Spring Framework 5 - hidden gems
+Supercharging user experience with machine learning
+Offline-first applications, syncing with PouchDB & CouchDB
+Kubernetes as a distributed JVM
+Angular - let's get reactive!
+QWERTY or DVORAK? Debunking the keyboard layout myths
+From brown field to green field
+Contract driven development with Spring Cloud Contract
+Top Elasticsearch tips
+Let’s config your Java project for cloud
+Making RESTful web services the easy way with Node.js
+Artificial Irreverence - improvised theatre with robots
+Why Spring <3 Kotlin
+Build, scale, & create IoT and mobile connected applications with the cloud
+From serverless to service full - how the role of devops is evolving
+Modular development with JDK 9
+Building serverless AI-powered applications on AWS
+How Uber audits real time infrastructure of trillion+ messages/day for completeness
+A Raspberry Pi and DeepLearning4J brain that plays Minecraft
+Plain functional programming
+Continuous delivery with containers - the Good, the bad, and the ugly
+Twitter's quest for a wholly Graal runtime
+Kotlin DSLs in 42 minutes
+Getting started with deep learning and MXNet
+Video games are for idiots
+Scala.js - getting the best of JavaScript and Scala
+Serverless architecture patterns and best practices
+Applying engineering practices to documentation
+Modules in one lesson
+Dr. Strangecode
+Kafka as a message queue - can you do it and should you do it?
+An ultrasonic adventure!
+Angular vs React smackdown
+Troubleshooting & debugging production microservices in Kubernetes
+10 tips to become an awesome Technical Lead
+JUnit 5 - the new testing framework for Java and platform for the JVM
+What if everything was a database?
+Streaming database changes with Debezium
+Devoxx4Kids state of the union
+Celebrating the release of JUnit 5
+Digitizing your grand dads old films with a PI
+Java 8 - the good, the bad and the ugly
+Spinnaker - get control over your deployements 
+Java EE 8 - what's new in the Java EE 8 release
+Lazy Java
+Safer apps from Docker security building blocks
+Data stream processing - concepts and implementations
+Deep space trajectory design software for ocean world orbiters and human space flight
+Fallacies of doom - lessons learned from porting Doom 3 to Java
+gRPC vs REST - let the battle begin!
+Eclipse MicroProfile - a quest for a lightweight and modern enterprise Java platform
+Migrating to modules
+The path of secure software
+The computer science behind a modern distributed data store
+Building a self-driving RC car
+JAX-RS and CDI Bike the reactive bridge!
+Docker for developers and ops - what's new and what's next
+Going Reactive with Spring 5 & Project Reactor
+The diabolical developer's guide to perfomance tuning
+Globally distributed software engineering - the good, the bad and the ugly
+Next generation asynchronous patterns in JavaScript
+Buzzword driven development 
+Cryptocurrencies and blockchain are taking over
+Cloud app developers and PaaS - a love / hate / love affair
+AI self-learning game playing
+Speedup unit testing with the Spock framework
+Love is ... Git
+Let it go - or how to become a free software developer?
+Building React applications with JHipster
+SOLID principles for Cloud Native containers
+Disabled > work > enabled
+How to plan a Java tour
+Slide deck version management - the good, the bad and the ugly
+Pipelines - breaking the wall between Dev and Ops
+What I learned from Iranian Culture
+Redirect http to https, how hard can it be?
+Bean Validation 2.0 - you’ve put your annotations everywhere!
+Cyclomatic complexity for developers
+Ally for women in technology
+Reactifying your application
+How to scale your app in minutes with container and AWS ECS
+Business parameters - a framework for managing complex configuration
+Using Kotlin to implement clean architecture
+Deep learning to fly
+Code your logic - not your infrastructure 
+Spring Boot 2.0 web applications
+Ask the JDK architects
+Microservices data patterns - CQRS & Event Sourcing
+Reliable and maintainable webdriver tests
+Making microservices micro again with Istio service mesh
+Spring Framework 5 - themes & trends
+Polishing the diamond - core library improvements in Java 9
+Reactive microsystems - the evolution of microservices at scale
+D3.js - easy and flexible data visualisation using web standards
+Clean, easy & stable - Android architecture
+Angular for Java developers
+Container orchestration considerations
+Hibernate you know it... but actually you don't
+Shenandoah - the garbage collector that could
+Blue team security - actual security work for actual developers
+Highway to Elm
+Mobile architecture at scale
+Java 9 VarHandles - best practices, and why?
+Serverless Kotlin with App Engine - fast deployment, infinite scalability
+Advances in machine learning, explained for software engineers
+Common API security pitfalls
+Deep into the IoT trenches - how to build a connected product
+Building event driven services with Apache Kafka and Kafka Streams
+Collections refueled
+Zero to app - live coding an Android app on Firebase in Kotlin
+Java on the GPU - where are we now?
+How hacking works
+Image recognition with deep learning - from prototype to production
+An introduction to JVM performance
+Java language futures - all aboard project Amber
+The anatomy of Java vulnerabilities
