@@ -52,6 +52,9 @@ export default {
           this.nextTalk();
         }
       });
+      document.body.addEventListener('click', e => {
+          this.nextTalk();
+      });
     }
   },
   data() {
@@ -71,6 +74,14 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  height: 92%;
 }
 
 h1, h2 {
