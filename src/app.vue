@@ -73,15 +73,17 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 
 html {
-  height: 100vh;
+  height: 100%;
 }
 
 body {
-  height: 92%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1, h2 {
