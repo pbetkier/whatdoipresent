@@ -1,0 +1,131 @@
+Spring Framework 5 - Preview & Roadmap 
+Patterns of reliable in-stream processing @ Scale
+Continuous Delivery: Benefits Explained
+Understanding Core Clojure Functions
+Love failure & embrace the fall out
+Culture Open Space 
+Performance testing 
+Project Jigsaw in JDK 9: Modularity Comes To Java
+Stream processing with Apache Flink
+Immutable Infrastructure: Rise of Machine Images
+An Introduction to Property Based Testing
+Architecting for failure Open Space
+How to win hearts and minds 
+Using technology as a blind long distance runner 
+Netty @Apple: Large Scale Deployment/ Connectivity
+Microservices for a Streaming World
+Applied CI/CD: Enabling Creativity @Volvo Trucks
+Functional Languages Open Space
+Resilient Predictive Data Pipelines 
+Cargo "Cult"ure: Imitation can be Suicide
+Choosing the right cloud provider
+Hot code is faster code - addressing JVM warm-up
+Streaming auto-scaling in Google Cloud Dataflow
+DevOps & CI/CD Open Space
+Unfrying your brain with F#
+Cassandra at Apple Scale
+Growing Up Unruly 
+Apache Ignite™ – In-Memory Data Fabric
+Java 9 - The (G1) GC Awakens!
+Data Streaming Open Space
+CD at LMAX: Testing into production and back again
+Types working for you, not against you
+Staying in Sync: From Transactions to Streams
+Far from the mobbing crowd
+Not Continuous Delivery if you can’t deploy now
+Java Open Space 
+Realtime Stream Computing &Analytics @Uber 
+Acceptance Testing for Continuous Delivery
+Compositional I/Ο Streams in Scala
+Taming Failures by Partitioning Time and Space
+Ending the Chain-of-Blame: Continuous Consequence
+Continuous Acceleration
+Cloud-based Microservices powering BBC iPlayer
+The quest for low-latency with concurrent Java
+The Dark Art of Container Monitoring
+Effortless Eventual Consistency with Weave Mesh
+Real-Time Fraud Detection with Graphs
+Optimizing You Open Space
+Integrate Building Blocks 4 NextGen IoT Data Tiers
+#NetflixEverywhere Global Architecture
+How Will Persistent Memory Change Software Design?
+Patterns in a Containerized World
+Distributed systems in practice, in theory
+Security Open Space 
+Mens Sana in Corpore Sano: Optimising Mind & Body
+Developing a Social Recommendation Engine
+Microsoft Cloud's Frontdoor: Building a Global API
+Game of Performance: A Song of JIT and GC
+Observe, Enhance, & Control: VMs to Containers
+Modern CS Open Space 
+Bitcoin Security: 1/10th cent to a billion dollars
+Lead the Revolution by Being Ordinary
+Messaging Microservices and Streaming Data
+ECS & Docker: Secure Async Execution @Coursera
+Understanding Hardware Transactional Memory
+Containers Open Space
+Not quite so broken TLS using Unikernels
+Building a Modern Security Engineering Team
+Engineering You 
+Real-world CD Pipelines 
+Architecting Google Docs 
+Open Space Close to the metal 
+Containers Change Everything
+Distributed Consensus: Making Impossible Possible
+Automating Security at Slack
+Burnout 
+Enterprise Integration: Past, Present and Future
+Architectures Open Space
+Much Faster Networking
+Build, Ship and Run Unikernels 
+GoshawkDB: Making time with Vector Clocks
+Nihilist’s Guide to Wrecking Humans and Systems
+Making a Sandwich: Effective Feedback Techniques
+Have your cake & eat it: MicroServices & Monorepos
+Smart Software Distribution by jFrog
+Software Release at Scale by Xebia Labs
+Defending the Free Internet by ThoughtWorks
+IoT Stamped Data Challenges by Basho
+Real-Time Decision Making by Aerospike
+The Future of NGINX by NGINX
+Building Trust Machines using the Block Chain
+Using Pony for Fintech
+Meet the Node.js anti-patterns 
+Startup ML: bootstrapping a fraud detection system
+Test-Driven Microservices: System Confidence
+Agile Open Space 
+Why Initiative is not a Strategy
+Hacking bank mobile apps
+Rust: Systems Programming for Everyone
+Hash Histories - toy blockchains for great danger
+The mechanics of testing large data pipelines
+Microservices Open Space 
+Hunting Unicorns - The Quest for Modern Agile
+Cassandra in Response Time Sensitive Environments
+How is Data-Science Going to Improve Insurance?
+Successful Go program design, 6 years on
+JS Everywhere 
+DS & ML Open Space 
+The Microservices and DevOps Journey
+#LearningIsHorrible, and Other Harsh Realities
+Data Movement Patterns for The Internet of Things
+Fighting the #fintech Wave with DevOps
+Open Source Swift Under the Hood
+Javascript Open Space
+Applied Supervised Learning: Predicting Recidivism
+Microservices Chaos Testing at Jet 
+Business Mapping: Building an Agile Organisation
+Multi-Host, Multi-Network Persistent Containers
+Creating Customer-Centric Products using Big-Data
+Modern Native Languages Open Space
+Designing a microservices architecture with NodeJS
+How do we Audit Algorithms?
+Microservice AntiPatterns 
+Culture Eats Principles for Breakfast
+Continuous integration with OpenShift and Jenkins
+Finance Open Space 
+The Case for bringing Swift to the Server
+RxJS 5 In-depth 
+Natural Language Processing (NLP): Here be dragons
+DDD and Microservices: At last, some boundaries!
+Techniques for a Successful Agile Transformation
