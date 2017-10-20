@@ -1,0 +1,2 @@
+/* run in console at https://qconlondon.com/london-20XX/london-20XX/schedule/tabular.html */
+document.write(Array.prototype.slice.call($('.presentation-title'), 0).map(it => it.innerHTML).join('<br />'));
