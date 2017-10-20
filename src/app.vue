@@ -10,6 +10,7 @@
         Created by <a href="https://twitter.com/piotrbetkier">@piotrbetkier</a> using reactive deep learning functions or <a href="https://github.com/pbetkier/whatdoipresent">some shit</a>.
       </p>
     </div>
+    <a v-if="this.tweetUrl" class="twitter-share-button" :href="this.tweetUrl">tweet this topic</a>
   </div>
 </template>
 
@@ -34,6 +35,8 @@ export default {
             const candidateTalk = candidate.join(" ");
             if (!this.dataset.has(candidateTalk)) {
               this.talk = candidateTalk;
+              const tweetText = encodeURIComponent(`Just submitted "${candidateTalk}" talk https://goo.gl/XFu4dA #c4p #whatdoipresent`);
+              this.tweetUrl = `https://twitter.com/intent/tweet?text=${tweetText}`;
               return;
             }
         }
@@ -57,7 +60,8 @@ export default {
   data() {
     return {
       talk: "",
-      chain: undefined
+      chain: undefined,
+      tweetUrl: ""
     }
   }
 }
