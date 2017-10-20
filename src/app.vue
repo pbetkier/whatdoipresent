@@ -2,6 +2,7 @@
   <div id="app">
     <h2>Don’t know what to present at a tech conf? Whatever, just talk about...</h2>
     <h1>{{ this.talk }}</h1>
+    <button @click="tweet">tweet it</button>
     <ul>
       <li><a @click="nextTalk" href="#">this sucks, give me something else</a></li>
     </ul>
@@ -52,6 +53,11 @@ export default {
           this.nextTalk();
         }
       });
+    },
+    tweet() {
+      const tweetUrl = "https://twitter.com/share?text=" +
+        "My next talk will be: " +  encodeURIComponent(this.talk)
+      window.open(tweetUrl)
     }
   },
   data() {
@@ -97,4 +103,19 @@ li {
 a {
   color: #42b983;
 }
+
+button {
+  background: #42b983;
+  border-radius: 100px;
+  border: none;
+  padding: 10px 30px;
+  color: #fff;
+  margin: 0 15px;
+}
+
+button:hover {
+  background: #2c3e50;
+}
+
+
 </style>
