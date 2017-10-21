@@ -8,7 +8,7 @@ test.beforeEach(async t => {
 
   Object.assign(t.context, {
     wrapper:      app,
-    h1:        app.find('h1'),
+    h1:           app.find('h1'),
     nextTalkLink: app.find('a')
   });
 
