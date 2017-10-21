@@ -2,6 +2,7 @@
   <div id="app">
     <h2>Don’t know what to present at a tech conf? Whatever, just talk about...</h2>
     <h1>{{ this.talk }}</h1>
+    <h3>{{ this.abstract }}</h3>
     <ul>
       <li><a @click="nextTalk" href="#">this sucks, give me something else</a></li>
     </ul>
@@ -29,20 +30,18 @@ export default {
     nextTalk() {
       let rounds = 0;
       while (rounds < 10) {
-        const candidate = this.chain.walk();
-        if (candidate.length > 2) {
-            const candidateTalk = candidate.join(" ");
-            if (!this.dataset.has(candidateTalk)) {
-              this.talk = candidateTalk;
+        const candidate = this.chain.walk()[0];
+         if (candidate.title.split(" ").length > 2) {
+              this.talk = candidate.title;
+              this.abstract = candidate.abstract;
               return;
-            }
-        }
+         }
         rounds += 1;
       }
       this.talk = "*** could not generate talks, this shit ain't working... ***";
     },
     buildChain() {
-      const corpus = Array.from(dataset).map((str) => str.split(' '));
+      const corpus = Array.from(dataset).map((str) => [str]);
       this.chain = new Chain(corpus);
       this.dataset = dataset;
     },
@@ -57,6 +56,7 @@ export default {
   data() {
     return {
       talk: "",
+      abstract: "",
       chain: undefined
     }
   }
