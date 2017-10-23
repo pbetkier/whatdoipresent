@@ -560,252 +560,252 @@ export default [{
 	"confName": "Devoxx Poland, 2015"
 }, {
 	"title": "Why does yesterday's best practice become tomorrow's anti-pattern?",
-	"abstract": "Sample abstract for Why does yesterday's best practice become tomorrow's anti-pattern?",
+	"abstract": "Modern software development exhibits a curious trend: Yesterday’s Best Practice Becomes Tomorrow’s Antipattern. Why? Haven’t we learned enough about software development to avoid this trap over and over? This keynote investigates why this trend continues, and offers some advice for escaping this vicious cycle.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Coding microservices effectively",
-	"abstract": "Sample abstract for Coding microservices effectively",
+	"abstract": "Focus on target domain, zero setup, monitoring and resiliency patterns included. In this session I will code, explain and deploy microservices on docker. Stock IDE, stock platform and lightening fast deployments. Getting things done in 1h. Questions are highly welcome.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Cloud Native Java",
-	"abstract": "Sample abstract for Cloud Native Java",
+	"abstract": "“It is not necessary to change. Survival is not mandatory.” -W. Edwards Deming <br> Work takes time to flow through an organization and ultimately be deployed to production where it captures value. It’s critical to reduce time-to-production. Software - for many organizations and industries - is a competitive advantage. <br> Organizations break their larger software ambitions into smaller, independently deployable, feature -centric batches of work - microservices. In order to reduce the round-trip between stations of work, organizations collapse or consolidate as much of them as possible and automate the rest; developers and operations beget “devops,” cloud-based services and platforms (like Cloud Foundry) automate operations work and break down the need for ITIL tickets and change management boards. <br> But velocity, for velocity’s sake, is dangerous. Microservices invite architectural complexity that few are prepared to address. In this talk, we’ll look at how high performance organizations like Ticketmaster, Alibaba, and Netflix make short work of that complexity with Spring Boot and Spring Cloud.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Continuous integration for web & JavaScript projects",
-	"abstract": "Sample abstract for Continuous integration for web & JavaScript projects",
+	"abstract": "This session covers the basics of setting up a Web & JavaScript project for Continuous Integration. The goal is to apply the same engineering practices as for projects coded in Java. Topics covered: <br> Build tool for JS: Grunt Integrating JSHint Automated testing setup Other tools as part of a build process: Webpack, transpiliation",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "The good monolith - bounded contexts in practice",
-	"abstract": "Sample abstract for The good monolith - bounded contexts in practice",
+	"abstract": "In the brave new world of micro-services one may have an impression that building monolithic apps is anti-pattern, even something to be ashamed of. I am here to tell you it is not true. There are lots of situations where monolith is better suited for the job, but it has to be maintainable. In my presentation I will show you how to use bounded context pattern to define maintainable components of your app and how to sprinkle some clean architecture onto it.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "The physical world meets the web",
-	"abstract": "Sample abstract for The physical world meets the web",
+	"abstract": "New APIs and specs are now joining the Web that let us connect the Physical World with the Web. In this talk we will cover the Physical Web and the streaming of URLs through beacons, new APIs, such as Web Bluetooth and Web NFC, Geofencing, current and future compatibility. <br> In this talk we will make live demos that attendees will be able to test on their own mobile phones, including bluetooth beacons, URL discovery through the Physical World and other devices.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Beyond lambdas - the aftermath",
-	"abstract": "Sample abstract for Beyond lambdas - the aftermath",
+	"abstract": "As Java developers we are used to having rich ecosystems of libraries and tools that make our lives easier. As of the release of Java 8, we finally got our hands on building blocks like lambdas, optionals, and streams. All sorts of tools that help us write more concise code. But now, when the honeymoon is over, are there any downsides to Java 8 or is it a silver bullet? Are there any new anti-patterns emerging? Or subtle bugs caused by the new style of programming? Have there been any lessons learned? Are there any best practices? <br> If you are interested in learning about the challenges encountered when moving over to a functional style of Java programming, what code constructs to avoid, and best practices to use, well then this session is for you.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "React.js - a modern web framework",
-	"abstract": "Sample abstract for React.js - a modern web framework",
+	"abstract": "React.js is a view library from Facecbook for building performant user-interfaces in JavaScript. In this session, we'll explore React.js and understand why it's a great step forward for building complex UI's that run fast. We'll code up an example web application using React.js and step through the basics of using the library while discussing concepts like the virtual DOM and components. <br> In this session, we'll explore React.js and understand why it's a great step forward for building complex UI's that run fast. We'll code up an example web application using React.js and step through the basics of using the library while discussing concepts like the virtual DOM and components.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Real-world analytics with Solr Cloud and Spark",
-	"abstract": "Sample abstract for Real-world analytics with Solr Cloud and Spark",
+	"abstract": "Apache Solr is a distributed NoSQL database with impressive search capabilities. Apache Spark makes M/R faster and richer. In this code-intense session shows how to combine both to solve real-time search and processing problems. The demos feature a portable Solr Cloud / Spark Cluster based on Intel NUC Hardware and Ubuntu Linux.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Hotspot & AOT",
-	"abstract": "Sample abstract for Hotspot & AOT",
+	"abstract": "Different Java implementations exist. Your code lives multiple lifes inside them and JIT compilers provide performance behind the scenes. Some JVMs have ahead-of-time (AOT) compilation that shortens the path. Statement of the problem is different, as well as solutions. Let's talk about why do we need pre-compiled code, how it can already be produced and used with Hotspot. How Project Graal lets Java to compile Java to native code and how new Java-Level JVM Compiler Interface incorporates Java to compilation work of JVM.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Blockchain and distributed ledgers for developers",
-	"abstract": "Sample abstract for Blockchain and distributed ledgers for developers",
+	"abstract": "You must have heard about Bitcoin. Publicly launched in 2009, it obtained massive public media attention a couple of years later. Besides a digital currency, the major innovation of Bitcoin is the blockchain, also known as a distributed ledger, a technology that uses cryptography to allow some systems that could only be modelled in a client-server fashion before to be modelled in a peer-to-peer fashion. Blockchain technology can be very useful outside the realm of digital currencies and finance, for example in the energy market, car maintenance history or international trade. <br> With my three years of experience with blockchains, I’m going to make sure there are a couple of takeaways for you in this presentation. You'll learn how blockchains works and see examples of blockchains in Java. You'll see how blockchain fits in a larger architecture, putting it in context with concepts like journals, event sourcing, CQRS. Finally, you will discover how to determine whether a blockchain may be appropriate for your project.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Pwn'ed within 48 hours",
-	"abstract": "Sample abstract for Pwn'ed within 48 hours",
+	"abstract": "Never expose any services on the public internet without a security review! If you are running Tomcat servers, always hide and/or secure the manager UI. <br> Join this talk to see how Ray's Tomcat server was hacked within 48 hours since it was online that was running on a non-standard port. We'll take a look at the tools that the hackers deployed and what these tools can do.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Data warehousing on Hadoop - one important DON'T and a few DOs",
-	"abstract": "Sample abstract for Data warehousing on Hadoop - one important DON'T and a few DOs",
+	"abstract": "At the same time, you can have your lunch and learn why you should attend my evening BOF session. Does it sound like a good deal? <br> The brave new world of Big Data has been around for a while and its tools have been successfully applied to solve different problems. But is it a silver bullet? Is it really completely new? Can you forget the old truths of design, architecture and project management? <br> The goal of the StraDa project is to gather the log files from hundreds of Roche diagnostic instruments spread around the world and transform these TBs of data into a data warehouse. We built it, but it wasn't a straightforward task. <br> Please come to learn what was the biggest mistake we made and then come back at 19:30 for a full-blown session.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Passwords - do you keep them safe?",
-	"abstract": "Sample abstract for Passwords - do you keep them safe?",
+	"abstract": "Some say that keeping passwords in a [web] application is a trivial task: some hashing, maybe some salt, et voilà! However, storing passwords and other sensitive data might not be as simple as it seems. You'll see a bunch of examples of what to do and what not to do based on a freelance's experience. Come and see if you're not sitting on a bomb.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "How to walk a process - controlling LEGO MINDSTORMS using BPMN",
-	"abstract": "Sample abstract for How to walk a process - controlling LEGO MINDSTORMS using BPMN",
+	"abstract": "Workflows belong to our day-to-day business like LEGO to our childhood. Lacking though in many companies are appropriate transparency and reusability of these workflows. The 'Business Process Modeling Notation' (BPMN) can eliminate these shortcomings and business departments and software technology are converging. In addition, the business world is visualized over different locations. The result consists of diagrams that serve as documentation for business and basis of process automation in IT. Contrary to these aspects, the practical learning with LEGO Mindstorms comes along. A small robot is assembled in varied forms, fed with a Java API and controlled by external software. Serial and parallel individual steps awaken our mobile friend to life. In this presentation, the arc between processes and robots is tensioned. Movements are defined with BPMN2, which are automated by means of a 'Business Process Engine'. The modeling approach including BPMN basics, structuring processes, and motor and sensory functions are illustrated during a live demo. All in all a hot topic that certainly delights programmers and inventors, professionals and inexperienced, as well as adults and children.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Why functional programming matters",
-	"abstract": "Sample abstract for Why functional programming matters",
+	"abstract": "In the latter half of the 2000s, a new kind of programming language seemed poised to take the steam out of the dominancen of object-oriented programming languages and their hold over 'mainstream' development. But these new languages, collectively referred to as 'functional'' languages, were nothing new. In fact, they've been a part of the language landscape since the late 80s, and arguably even longer than that. What makes a functional language, and what makes a functional language interesting? Most importantly, why do we care now, thirty years after their introduction?",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Getting hip with JHipster",
-	"abstract": "Sample abstract for Getting hip with JHipster",
+	"abstract": "JHipster is a Yeoman generator which is used to rapidly create a Spring Boot and Angular JS project. JHipster leverages best of class technologies to build modern web applications. Spring Boot is used on the server side to provide a robust and performance Java stack, coupled with Angular JS and Bootstrap CSS for a modern, mobile-first front end. Learn how Yeoman, Bower, Gulp, and Gradle are used to build and manage project resources.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Successful startup is not enough - you must scale technology to enterprise while maintaining your startup creativity",
-	"abstract": "Sample abstract for Successful startup is not enough - you must scale technology to enterprise while maintaining your startup creativity",
+	"abstract": "We will share with you the lean journey of the Sabre TripCase application from an undeveloped start-up to a full enterprise solution. From rapid development to high performing solutions, learn how to maintain flexibility by adopting the right 1. methodology, 2. technology, and 3. architecture for the right moment. We will share our findings and practical tips for Technology, Architecture, Operations, and Design evolution.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Building a full-automated fast data platform",
-	"abstract": "Sample abstract for Building a full-automated fast data platform",
+	"abstract": "Many people promise fast data as the next step after big data. The idea of creating a complete end-to-end data pipeline that combines Spark, Akka, Cassandra, Kafka, and Apache Mesos came up two years ago, sometimes called the SMACK stack. The SMACK stack is an ideal environment for handling all sorts of data-processing needs which can be nightly batch-processing tasks, real-time ingestion of sensor data or business intelligence questions. The SMACK stack includes a lot of components which have to be deployed somewhere. Let’s see how we can create a distributed environment in the cloud with Terraform and how we can provision a Mesos-Cluster with Mesosphere Datacenter Operating System (DC/OS) to create a powerful fast data platform.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Anti-fragile architectures",
-	"abstract": "Sample abstract for Anti-fragile architectures",
+	"abstract": "What is fragile? Fragile things are easily broken, damaged, or destroyed. When faced with stressors, they crumble. Then what is the opposite of that? Many of us would answer something like “robust” or “resilient.” Things that maintain their integrity when faced with stressors. But it’s possible that we’re wrong. <br> In his book Antifragile, Nassim Nicholas Taleb challenges this idea by inventing the word that forms the book’s title. Antifragile is the true opposite of fragile. Whereas fragile things are easily broken, damaged, or destroyed when faced with stressors, antifragile things improve, become stronger, or become more powerful when faced with stressors. <br> Can we build software systems like this? Dick Gabriel explores the idea of ultra-large scale systems that self-regulate (and in fact thrive) in the face of unexpected changes and stressors in his essay “Design Beyond Human Abilities,” and Russ Miles explicitly calls out the idea of Antifragile Software in his book by the same name. During this session we’ll explore these ideas and what they mean to us as developers and architects.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "A practical RxJava example with Ratpack",
-	"abstract": "Sample abstract for A practical RxJava example with Ratpack",
+	"abstract": "RxJava seems to be this awesome thing that every cool kids start using. But when you read about it, half of the time it's hard to make anything out of it. Sure the isolated examples look nice but it's always hard to put this in perspective with a real app. <br> In this talk I'll go through an application made to store, index and search files. We'll see the benefit brought by using RxJava and Ratpack. Nothing too complicated or advanced, just something pragmatic.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Building common libraries and not failing at it",
-	"abstract": "Sample abstract for Building common libraries and not failing at it",
+	"abstract": "Common libraries. Almost every company makes them. Why do they often end up hated for becoming hard to maintain garbage? Does it have to be this way? Can we do better? <br> In this talk we'll explore various models of providing shared code for an organization and their consequences. We'll also dive into the art of designing and developing libraries – keeping them powerful and easy to use despite constant changes in requirements. We'll cover API design, handling of dependencies, deciding on features, structuring the tools ecosystem and much more. All this coming from experience (and mistakes) of building tools for the microservices infrastructure at Allegro. <br> I hope to leave you with practical knowledge essential for building successful tools – both for growing internal commons ecosystems and for creating useful open-source projects.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Tips & tricks for a Java team",
-	"abstract": "Sample abstract for Tips & tricks for a Java team",
+	"abstract": "This session walks the audience through a few cool tips and tricks to modernize their application development and devops workflows. These include: 1. How agile teams keep everything connected - plans, code, builds and releases 2. On-demand workspaces in the cloud - a new way of collaborating on code 3. How to leverage the cloud for building and deploying your applications 4. Testing your mobile apps with real devices, without owning one 5. User feedback and telemetry - leveraging beta releases and understanding usage from a live application <br> Technologies covered: Visual Studio Team Services, Microsoft Azure, Xamarin Test Cloud, Eclipse Che and Codenvy, HockeyApp",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Microservices minus the hype - how to build and why",
-	"abstract": "Sample abstract for Microservices minus the hype - how to build and why",
+	"abstract": "Few topics in software architecture discussions yield as much heat as that of microservices. Monolithic applications have dominated the landscape for years, and a large number of monoliths run a great many critical processes used to this day. More recently, companies with requirements for rapid release cycles and key 'ilities' (maintainability, scalability, reliability, flexibility, extensibility) have chosen another approach, deploying functionality in more granular, API-driven modules: microservices. <br> In this session, the presenter will strip away the hype and speak frankly of the upsides & downsides of adopting a microservices architecture and why, with certain exceptions, the pros far outweigh the cons. Topics include Domain Driven Design & bounded contexts, increasing quality & velocity, horizontal vs. vertical scaling, portability, & more. The presenter will then show how to build & integrate microservices applications using Spring Boot, various data sources, & REST resources built to task. Load balancers, circuit breakers, tests, & other risk mitigation mechanisms will be demonstrated & discussed. <br> Leave this session knowing how and why to max out on microservices!",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Java libraries you can't afford to miss",
-	"abstract": "Sample abstract for Java libraries you can't afford to miss",
+	"abstract": "The Java language has crossed it's 20th anniversary and with it comes an incredible range of tools libraries to choose from; sometimes there are too many choices for the same task. In this talk we'll cover those libraries that have risen to the top by proving themselves to be worthy of a place in every developer's toolbox, both for production and testing code. We'll also cover some fairly new libraries that are bound to make a big impact in the ecosystem.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "JVM dive for mere mortals",
-	"abstract": "Sample abstract for JVM dive for mere mortals",
+	"abstract": "For developers using Java on a daily basis, JVM is a pretty important component - it runs our software. But it is usually treated like a magic box, which takes code in and produces business features. Have you ever thought about what you are missing with such an approach? During my talk I'll cover some of the JVM internals which should not be avoided even during regular Java development. We'll discuss real differences between primitives and their wrappers, talk about the cost of using lambdas and streams, see what really gets erased in the type erasure process and what we can gain by removing stacktrace from our business exceptions.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Project Jigsaw in JDK 9 - modularity comes to Java",
-	"abstract": "Sample abstract for Project Jigsaw in JDK 9 - modularity comes to Java",
+	"abstract": "Project Jigsaw will bring modularity to the Java platform; something that will enable better security, performance and flexibility for deployment of applications. This talk will look at the fundamentals of how modularity in Java will work. Developers will need to understand that these changes go significantly further than just separating the standard class libraries into a number of discrete units. <br> This talk will explain the impact project Jigsaw will have on developers in terms of building their applications, as well as helping them to understand how things like encapsulation will change in JDK 9.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "40 tips & tricks for Spring in IntelliJ IDEA",
-	"abstract": "Sample abstract for 40 tips & tricks for Spring in IntelliJ IDEA",
+	"abstract": "IDEs can be powerful, but hard to learn. Some features are hidden or simply not well known. Let’s end this dilemma and make you more productive and efficient when working on Spring applications. Learn how to navigate, edit and perform refactorings across a variety of common Spring technologies. <br> You’ll leave this session with a whole stack of power tricks - right from the developers working on it.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "How to survive and thrive in a BigCo",
-	"abstract": "Sample abstract for How to survive and thrive in a BigCo",
+	"abstract": "If you work at a small, cool company, you can skip this talk. The rest of us in large, slow moving companies that rely on meetings, email, and inbox 2,000 to get the daily work done need some therapy and advice for thriving in big, 'dumb'' companies. I've worked in such companies and figured out how to thrive in the 'back to back meetings' world we're taught to avoid. I'll tell you my tactics. <br> Ideally, you’d adapt the no manager GitHub dream, adapt the Spotify and Netflix cultures of awesomeness. Indeed. However, oftentimes there are good reasons to stay in the relatively dysfunctional companies you’re at. They’re big, slow moving, and seem to use Microsoft Office as their core innovation engine. <br> If people at your work always talk about “aircraft carriers” this is the talk for you.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Reactive fault tolerant programing with Hystrix and RxJava",
-	"abstract": "Sample abstract for Reactive fault tolerant programing with Hystrix and RxJava",
+	"abstract": "As we build distributed systems composed of microservices, we introduce new potential performance problems and failure points. As the number of nodes in our system increases, these problems rapidly amplify. In order to keep our composite systems responsive, we can apply the techniques of reactive programming. In order to keep our composite systems healthy, we can apply fault tolerance patterns like circuit breakers and bulkheads. <br> In this presentation we’ll examine how to leverage two popular libraries from Netflix, Hystrix and RxJava, to create reactive and fault tolerant systems.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "2FA, WTF?",
-	"abstract": "Sample abstract for 2FA, WTF?",
+	"abstract": "Everyone is hacking everything. Everything is vulnerable. Your site, your users, even you. Are you worried about this? You should be! Don't worry, I'm not trying to scare you (that much). We have plenty of safeguards against attempts on our applications' user data. We all (hopefully) recognise Two Factor Auth as one of those safeguards, but what actually goes on under the hood of 2FA? We'll take a look into generating one time passwords, implementing 2FA in web applications and the only real life compelling use case for QR codes. Together, we'll make the web a more secure place.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Continuous improvement, developing yourself and others",
-	"abstract": "Sample abstract for Continuous improvement, developing yourself and others",
+	"abstract": "Have you ever wondered why your manager pushes you to those nasty communication trainings? Why your colleagues do not understand those simple concepts that you churn through. And even worse, they complain to your boss about you! On the other hand, why that smart developer sits alone in a corner, does not share, do not PP, and hides his commits, while you could learn all from him. Why there is no “I” in a “team” word, and what is up with those teams at all, where the heck disappeared the concept of coding alone in your basement around midnight! <br> Lot of material, so we'll touch on each topic of : learning, working together, motivating ourselves and what are the differences between us and tools to visualize them",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Real-time mapping with the drone",
-	"abstract": "Sample abstract for Real-time mapping with the drone",
+	"abstract": "You can do many things with a quadcopter. We, as fanatic real-time strategy gamers, wanted our drone to listen to our commands given at the map level, revealing the terrain below it as it flies and creating a coherent and smooth map. <br> Hovewer funny and amusing, this will be a presentation about serious, high-level technology, unpredictable ideas and insistent scientific struggle to make all the algorithmic meat work on a flying machine. <br> During this presentation we will tell you how we created our first successful prototype, we will show the demonstration videos and will explain our technology based on video processing, accelerometer data control and localization using particle filtering algorithm. <br> If you are planning to remotely prepare the map of the Moon (or your living room), you cannot miss this presentation.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "The Spring BOF",
-	"abstract": "Sample abstract for The Spring BOF",
+	"abstract": "A BOF for all fans of Spring to talk about the latest and greatest tech, including Spring Boot, the convention-over-configuration centric framework built on top of Spring.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "DevOps assessment workshop - how to achieve quick returns with speed in Application delivery?",
-	"abstract": "Sample abstract for DevOps assessment workshop - how to achieve quick returns with speed in Application delivery?",
+	"abstract": "Value stream mapping is a technique that can be used to enable a DevOps transformation. It allows you to see where the bottlenecks and inefficiencies are in your delivery pipeline. In this collaborative workshop session, you will learn how to develop a value stream map of your delivery pipeline, identify obstacles across it, target DevOps practices that address your specific needs and develop a pragmatic approach to get started.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Data warehousing on Hadoop - after a few months in production",
-	"abstract": "Sample abstract for Data warehousing on Hadoop - after a few months in production",
+	"abstract": "Medical laboratory instruments produce immense volumes of log files. Until recently, they were used only for trouble shooting and maintenance purposes. However, hidden inside are insights that could allow the laboratory managers to streamline and optimize the diagnostic process. <br> The goal of the StraDa project is to gather the log files from hundreds of Roche diagnostic instruments spread around the world, transform these TBs of data into actionable information and make it available for the business users. <br> Yet another data warehouse? Sounds reasonably easy? Well, so we thought. And we were wrong. <br> Please come to learn about some of the mistakes we made and problems we encountered, so you can avoid them. <br> I will have slides, but I don’t need to follow them. Ask questions! Challenge me! Share you own experience!",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "The state of asynchronous programming in Java - completable or reactive Future?",
-	"abstract": "Sample abstract for The state of asynchronous programming in Java - completable or reactive Future?",
+	"abstract": "While synchronous APIs are still used for the vast majority of applications running on JVM, asynchronous, non-blocking programming models are gaining popularity, especially within microservices space, where inter-service calls are remote by definition and blocking can be very detrimental for application performance. <br> CompletableFuture enables async, promise-based programming in Java, and is probably one of the most powerful and most overlooked additions to Java 8, but it is not the only game in town. Reactive frameworks, such as RxJava and Spring Reactor provide some of the same features and more. <br> This BOF would allow the attendees to discuss their experiences using any of these async frameworks, compare and contrast the available options, and when it makes more sense to use one over the other.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Understanding microservice performance",
-	"abstract": "Sample abstract for Understanding microservice performance",
+	"abstract": "The world at large seems sold on microservices as a way to build large, quality systems at the speed needed to compete in today's market. However, microservices are not without their downsides, one of which is the difficulty of reasoning about and optimising the performance of mircoservices working in tandem. <br> In this session, attendees will learn the key concepts needed to measure the performance of their services, identify potential bottlenecks and take corrective action to ensure services perform as needed. <br> Before we can reason about the performance of connected services, we must understand how to reason about services in isolation. The first half of the session is dedicated to discussing how to measure service performance correctly, what metrics matter and how to compare the performance of a service over time. <br> In the second half of the session, we take our single-service knowledge and expand it out to reason about a set of services working together to provide some aggregate function. We'll see how the performance of each service affects the performance of the whole, and learn how to identify where to focus our optimisation efforts.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "A post-apocalyptic sun.misc.Unsafe world",
-	"abstract": "Sample abstract for A post-apocalyptic sun.misc.Unsafe world",
+	"abstract": "The announcement that sun.misc.Unsafe will disappear in Java 9 created a huge buzz in the community and lots of people didnt agree with the idea. While Unsafe have to go away eventually the time in not yet and Oracle finally agreed on that. <br> To replace sun.misc.Unsafe we need a clear set of APIs to achieve the same behavior and performance. VarHandle, Foreign Function Calls, Generic Specialization (Templates) and other proposals try to solve this misery and to replace certain aspects of our beloved class. <br> This talk will introduce the alternatives and explain how and why they will help to replace sun.misc.Unsafe. It uses basic examples to demonstrate what a Post-Apocalyptic Unsafe World will look like.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Developer, develop yourself!",
-	"abstract": "Sample abstract for Developer, develop yourself!",
+	"abstract": "I invite you for a story about things you can do as developers to keep developing yourself. I will tell you about workshops, hackathons, code review techniques, blog writing, attending and speaking at conferences, sharing knowledge and a lot more. All those activities support learning new things, experimenting and having fun. Without that we have only our day-to-day job that can be tough or boring. Everything comes from my personal experience. I will show you examples with do’s and don’ts. I will share lot’s of tips how to introduce those techniques at your work.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Easily scale up your JEE stack with Docker&Co - battlefield notes - join the winners!",
-	"abstract": "Sample abstract for Easily scale up your JEE stack with Docker&Co - battlefield notes - join the winners!",
+	"abstract": "XTRF translation process management platform is a heavy weight JEE application hosted on JBoss AS servers and exposed to more than 250 customers all over the world. It is filled up with older and newer java libraries (JSF/SEAM/RF, Spring, Hibernate, RestAPI, AngularJS) backed by Postgresql/Oracle database. <br> So what’s the big deal? There are thousands of apps like these. They share same problems like large footprint or deployment clumsiness. But what do you do if your customers love your product and need more and more instances all over the world? How do you build an infrastructure for hosting hundred of these and not to go bankrupt at the same time? It is more than certain that you had already faced some of these problems in your career. What’s, more most likely you are already perfectly aware of miscellaneous cloud and contemporary virtualization solutions that are already available out of the box (ex. EC2, DigitalOcean etc). They are easy to integrate with, simple to scale up. However they usually give you much more that you may actually need which ends up with a monthly bill that may not fit into your budgeting plans particular well.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "The error handling approaches",
-	"abstract": "Sample abstract for The error handling approaches",
+	"abstract": "Usually errors in imperative languages are handled by try-catch block or checking that each operation (function) returned as expected. This causes a lot of defensive coding with if-wrapping of code blocks. With more functional approach it is way easier to do so… The talk introduces two models of error handling: Erlang-inspired let it crash and foldable, Either-type and Kleisli composition related approach.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Evolutionary architectures",
-	"abstract": "Sample abstract for Evolutionary architectures",
+	"abstract": "For many years, software architecture was described as the “parts that are hard to change later”. But software architecture is the balancing of capabilities versus constraints. If build changeability one of your prime capabilities, evolutionary change becomes easier. The microservice architectural style is quite popular, but it is only one in a family of evolutionary architectures. This session defines the characteristics this family of architectural styles, along with engineering and DevOps practices necessary for implementation. I cover the principles behind evolutionary architectures, the practices needed for success, how organization and team structure affects these architectures, and specific engineer practices that facilitate evolutionary architectures. I also discuss migration strategies from common existing architectural types towards move evolutionary architectures.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Going reactive",
-	"abstract": "Sample abstract for Going reactive",
+	"abstract": "Reactive architectures are becoming ever more popular in the Java world as developers come to understand the benefits to code comprehension, de-coupling and testability.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "New Cassandra 3 features that change your (developer) life",
-	"abstract": "Sample abstract for New Cassandra 3 features that change your (developer) life",
+	"abstract": "Cassandra 3.0 has been released for a while, it's high time to look at the new features that will make your life easier: <br> - the new User Defined Functions (UDF) and User Defined Aggregates (UDA) which allow you to create code in the language of your choice (JVM compatible) and push the computation to the server <br> - the JSON syntax that can be used to push data directly into Cassandra without the pain of converting JSON to regular literal values <br> - the new Materialized Views (MV) that make de-normalization easier for the developers <br> - the new SASI full text search feature that allow you to perform dynamic queries on your Cassandra data",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "REST in peace",
-	"abstract": "Sample abstract for REST in peace",
+	"abstract": "REST APIs are the language of the web. Though simple to build, it's also very easy to mess them up. You end up with a convoluted API, that's hard to understand and even worse to use. I want to show you how to create REST APIs that are both comprehensible are maintainable and make your fellow developers happy.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Reactive microservices with DDD and Actors",
-	"abstract": "Sample abstract for Reactive microservices with DDD and Actors",
+	"abstract": "What are microservices all about, and are they practical for your enterprise? How granular should a microservice be, and what approach should you use to determine the proper and appropriate boundaries between microservices? How can each microservice communicate with others in a distributed computing environment to correctly fulfill business objectives? How can my microservices adhere to the tenets of reactive software, being responsive, resilient, elastic, and message driven? Using Domain-Driven Design and Actors to implement microservices, this talk will demonstrate how you can create microservices while answering all of the questions posed, and more. The talk will show you how to carefully craft microservices and to model the business domain within. You will experience advanced use of the Actor model throughout.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Better ways of developing software or coding like a unicorn",
-	"abstract": "Sample abstract for Better ways of developing software or coding like a unicorn",
+	"abstract": "The way software is developed and run in production has changed dramatically over the past ten years. These changes are just now reaching the “mainstream” who are looking to respond to the idea that “software is eating the world” and use software like all the “unicorns” we read about in the market. Getting your advice strictly from unicorn companies can feel a lot like getting dieting advice from celebrities: it sure will work if you have unlimited resources, few constraints, and, well, are already successful. What can the rest of shlubs who actually work in “the real world do” to get closer to the benefits of being “cloud native”? <br> This talk answers that question by looking at the current state of IT and how the role of IT has changed in recent years: if around ⅔ of businesses think IT doesn’t help them innovate, how is IT going to be effective in an era where custom written software is key to surviving and thriving in a business world where competitive advantages are now highly transient?",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Ten lessons I painfully learnt while moving from software developer to entrepreneur/CEO role",
-	"abstract": "Sample abstract for Ten lessons I painfully learnt while moving from software developer to entrepreneur/CEO role",
+	"abstract": "For many years I was a software developer. I would concentrate on the code, software projects and the interactions with my closest team and the users. I was sure that Agile solves all world’s problems. I would laugh over Scott Adam’s Dilbert comics with his Pointy Hair Boss. Life was simple, life was good. Now for 8+ years I have been running a software company, not a small one anymore. I became myself a full-time boss who only codes sometimes at home or during hackathons. This session is about sharing with you those critical lessons which I painfully learnt when trying to grow into this new role - transitioning from being a software engineer into being an entrepreneur and top manager. Wheres not all of the lessons may or will (if you dream about your own startup) apply to your case, being aware of them may save you tons of time, energy, money or even help you to avoid the total disaster - burying your own company, dreams or destroying your team. And after all, sharing war stories from the past is fun … when these stories are the past.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "The illusion of statelessness",
-	"abstract": "Sample abstract for The illusion of statelessness",
+	"abstract": "While everyone is talking about 'stateless' services as a way to achieve scalability and high availability, the truth is that they are about as real as the unicorns. <br> Building applications and services that way simply pushes the problem further down the stack, which only makes it worse and more difficult to solve (although, on the upside, it might make it somebody else’s problem). This is painfully obvious when building microservices, where each service must truly own its state. <br> The reality is that you don't need 'stateless' services to either scale out or be fault tolerant -- what you really need is a scalable, fault tolerant state management solution that you can build your services around. <br> In this talk we will discuss how some of the popular microservices frameworks are tackling this problem, and will look at technologies available today that make it possible to build scalable, highly available systems without 'stateless' service layers, whether you are building microservices or good ol' monoliths.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
@@ -1025,7 +1025,7 @@ export default [{
 	"confName": "Devoxx Poland, 2016"
 }, {
 	"title": "Accurest - throw away your integration tests",
-	"abstract": "Sample abstract for Accurest - throw away your integration tests",
+	"abstract": "Integration tests are hard especially in distributed environments where many applications talk to each other. When we add continuous deployment approach it's becoming impossible to ensure two independently deployed services will integrate properly. Fortunately there is the Accurest. Tool that verifies contracts based on HTTP calls or messaging without integrating real applications. During this talk we'll show how to validate communication between services as a part of deployment pipeline without deploying even single application.",
 	"confCode": "devoxx-pl-2016",
 	"confName": "Devoxx Poland, 2016"
 }, {
