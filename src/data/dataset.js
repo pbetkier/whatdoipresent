@@ -1,34 +1,14 @@
-import data from './data';
+import devoxx_bl_16 from './devoxx-bl-16';
+import devoxx_bl_17 from './devoxx-bl-17';
+import devoxx_pl_15 from './devoxx-pl-15.js';
+import devoxx_pl_16 from './devoxx-pl-16.js';
+import devoxx_pl_17 from './devoxx-pl-17.js';
+import devoxx_us_17 from './devoxx-us-17.js';
+import qcon_lon_16 from './qcon-lon-16.js';
+import qcon_lon_17 from './qcon-lon-17.js';
+
+const lists = [devoxx_bl_16, devoxx_bl_17, devoxx_pl_15, devoxx_pl_16, devoxx_pl_17, devoxx_us_17, devoxx_us_17, qcon_lon_16, qcon_lon_17];
+const data = [].concat.apply([], lists);
+console.log(data);
 
 export default new Set(data);
-
-/*  One time utility to convert the data source from txt to JSON 
-*/
-// import devoxx15pl from './devoxx-pl-2015.txt'
-// import devoxx16pl from './devoxx-pl-2016.txt'
-// import devoxx16be from './devoxx-be-2016.txt'
-// import devoxx17pl from './devoxx-pl-2017.txt'
-// import devoxx17be from './devoxx-be-2017.txt'
-// import qconlondon16 from './qcon-london-2016.txt';
-// import qconlondon17 from './qcon-london-2017.txt';
-// function convertTxtToJSON() {
-//     var finalJSON = [];
-//     function converter(lists, confCode, confName) {
-//         var titles = [].concat(...lists.map(x => x.split('\n')));
-//         console.log(titles.length);
-//         titles.forEach(title => {
-//             var abstract = "Sample abstract for " + title;
-//             var tempObj = { "title" : title, "abstract" : abstract, "confCode" : confCode, "confName" : confName };
-//             finalJSON.push(tempObj);
-//         });
-//     };
-//     converter([devoxx15pl], "devoxx-pl-2015", "Devoxx Poland, 2015");
-//     converter([devoxx16pl], "devoxx-pl-2016", "Devoxx Poland, 2016");
-//     converter([devoxx16be], "devoxx-be-2016", "Devoxx Belgium, 2016");
-//     converter([devoxx17pl], "devoxx-pl-2017", "Devoxx Poland, 2017");
-//     converter([devoxx17be], "devoxx-be-2017", "Devoxx Belgium, 2017");
-//     converter([qconlondon16], "qcon-london-2016", "QCon London, 2016");
-//     converter([qconlondon17], "qcon-london-2017", "QCon London, 2017");
-//     console.log(JSON.stringify(finalJSON));
-// };
-// convertTxtToJSON();
