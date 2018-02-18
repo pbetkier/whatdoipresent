@@ -64,7 +64,7 @@ Designing software with security in mind?
 Vagrant up your environment
 Building an asynchronous reactive NoSQL SDK with RxJava
 Lazy evaluations
-WebVR - democracy in Virtual Reality
+WebVR - democracy in virtual reality
 Microservices - enough with theory, let's code some
 Apache Spark - when things go wrong
 HTTP/2 - why upgrading the web?

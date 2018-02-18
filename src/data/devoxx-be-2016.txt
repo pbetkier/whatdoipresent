@@ -157,7 +157,7 @@ Hacker's guide to coffee (Java)
 What users want
 Mood driven development
 Become a king with Kong
-Introducing JSR 354 - the Money & Currency API
+Introducing JSR 354 - the money & currency API
 Mobycraft - manage Docker containers using Minecraft
 NoOps in the cloud
 Testing time in Java
