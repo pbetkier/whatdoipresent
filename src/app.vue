@@ -31,7 +31,7 @@ export default {
       let rounds = 0;
       while (rounds < 10) {
         const candidate = this.chain.walk();
-        if (candidate.length > 2) {
+        if (candidate.length > 2 && candidate.length < 15) {
             const candidateTalk = candidate.join(" ");
             if (!this.dataset.has(candidateTalk)) {
               this.talk = candidateTalk;
