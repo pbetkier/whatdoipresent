@@ -1,125 +1,106 @@
-Building and Trusting a Cloud Bank
-Performance Open Space
-Strategic Code Deletion
-Microservices At The Heart of BBC iPlayer
-Effective Data Pipelines: Data Mngmt from Chaos
-Tips For Creating a More Equal Workplace
-Mastering the app Store landscape with telemetry
-Challenging Perceptions of NHS IT
-Performance Testing in Java
-Using Quality Views to Tackle Tech Debt @Tesla
-The Hitchhiker's Guide to Serverless Javascript
-Data Cleansing and Understanding Best Practices
-Culture Open Space
+Building and trusting a cloud bank
+Strategic code deletion
+Microservices at the heart of BBC iPlayer
+Effective data pipelines – data management from chaos
+Tips for creating a more equal workplace
+Mastering the app store landscape with telemetry
+Challenging perceptions of NHS IT
+Performance testing in Java
+Using quality views to tackle tech debt at Tesla
+The hitchhiker's guide to serverless JavaScript
+Data cleansing and understanding best practices
 One repo to enable DevOps #monorepo
-Building Reliability In An Unreliable World
-High Performance Managed Languages
-Refactoring Mount Doom - Tackling Legacy Code
+Building reliability in an unreliable world
+High performance managed languages
+Refactoring mount doom – tackling legacy code
 Adventures in JavaScript and the IoT
-Data Engineering Open Space
-Enabling Innovation at Uber Speed
-Continuously Delivering Security in the Cloud
-From Microliths To Microsystems
-Continuous Performance Testing
-Dark Code Open Space
-Full-Scale Elm in Production
-Reliable & Scalable Data Infra Eco-System At Uber
-Evolving the Engineering Culture @Criteo
-Lessons Learned Building Hyper-Scale Cloud Service
-Latency Sensitive Microservices
-Async Or Bust!?
-A Crystal Ball To Prioritize Technical Debt
-JavaScript Open Space
-Building a Data Science Capability From Scratch
-The Holistic Detective Hunt For Great Tech Culture
-Dev Ops @ Scale
-Architecting For Failure Open Space
-In-Memory Caching: Curb Tail Latency with Pelikan
-Crushing Tech Debt Through Automation at Coinbase
-Rebuilding The Monolith With Composable Apps
-Building Data Pipelines in Python
-Delivering Value While Behind Enemy Lines
-Empowering Apps with Microsoft Cognitive Services
-Architectural Overhaul: Ad Serving @Spotify Scale
-Predictability In ML Applications
-Products And Prototypes With Keras
-Deliver Docker Containers Continuously on AWS
-Coding for High Frequency Trading
-Lending Privilege
-Web Components @ Scale
-Scaling Facebook Live Videos to a Billion Users
-Achieving High Load in Advertising Technology
-Mini Workshop: Hands-on Deep Learning
-Continuous Delivery The Hard Way With Kubernetes
-Testing Programmable Infrastructure with Ruby
-Softskills Open Space
-Drowning in Data, Thirsting for Insight
-Low Latency Trading Architecture at LMAX Exchange
-Extreme Programming Meets Realtime Data
-Building Robust Machine Learning Systems
-When Containers Attack!
-Languages Open Space
-Shaving My Head Made Me A Better Programmer
-Multiple NoSQL Use Cases with Redis Modules
-The Distributed Pit of Success @Deliveroo
-Ad Serving & Finance Open Space
-Julia: A Modern Language For Modern ML
-cgroupv2: Linux's New Unified Control Group System
-Why We Chose Erlang Over vs. Java, Scala, Go, C
-Consensual Software: Prioritizing Trust & Safety
+Enabling innovation at Uber speed
+Continuously delivering security in the cloud
+From microliths to microsystems
+Continuous performance testing
+Full-scale Elm in production
+Reliable & scalable data infra ecosystem at Uber
+Evolving the engineering culture at Criteo
+Lessons learned building hyper-scale cloud service
+Latency sensitive microservices
+Async or bust!?
+A crystal ball to prioritize technical debt
+Building a data science capability from scratch
+The holistic detective hunt for great tech culture
+In-memory caching – curb tail latency with Pelikan
+Crushing tech debt through automation at Coinbase
+Rebuilding the monolith with composable apps
+Building data pipelines in Python
+Delivering value while behind enemy lines
+Empowering apps with Microsoft Cognitive Services
+Architectural overhaul – ad serving at Spotify scale
+Predictability in ML applications
+Products and prototypes with Keras
+Deliver Docker containers continuously on AWS
+Coding for high frequency trading
+Lending privilege
+Scaling Facebook live videos to a billion users
+Achieving high load in advertising technology
+Mini workshop – hands-on deep learning
+Continuous delivery the hard way with Kubernetes
+Testing programmable infrastructure with Ruby
+Drowning in data, thirsting for insight
+Low latency trading architecture at LMAX Exchange
+Extreme programming meets realtime data
+Building robust machine learning systems
+When containers attack!
+Shaving my head made me a better programmer
+Multiple NoSQL use cases with Redis modules
+The distributed pit of success at Deliveroo
+Julia – a modern language for modern ML
+cgroupv2 – Linux's new unified control group system
+Why we chose Erlang over Java, Scala, Go, C
+Consensual software – prioritizing trust & safety
 I have a NoSQL toaster
-Scaling Instagram Infrastructure
-Policing The Stock Market with Machine Learning
-DSSTNE: Deep Learning at Scale
-Containers Open Space
-Building a Bank with Go
-Building a High Performing Team
-Multi-host, Multi-network Persistent Containers
-Architectures Open Space
-The Move to AI: From HFT to Laplace Demon
-Deep Learning @Google Scale: Smart Reply in Inbox
-Dev to Prod in 5 minutes: Is Your Company Ready?
-A Practical Road to SaaS' in Python
-Creating Space To Be Awesome
+Scaling Instagram infrastructure
+Policing the stock market with machine learning
+Building a bank with Go
+Building a high performing team
+Multi-host, Multi-network persistent containers
+The move to AI – from HFT to Laplace demon
+Deep learning at Google scale – smart reply in Inbox
+Dev to Prod in 5 minutes – is your company ready?
+A practical road to SaaS in Python
+Creating space to be awesome
 You can't buy DevOps, but you may have to sell it
-Realtime & Personalized Notifications @Twitter
-Thinking Strategically About IoT
-Blockchain Introduction: Peering Through the Hype
-Avoiding Alerts Overload From Microservices
-SQL Server On Linux: Will It Perform Or Not?
-Security Open Space
-Tasty 'Topics' for Distributed Systems
-Distributed Systems Theory for Practical Engineers
-From Concurrent to Parallel
-Practical Cryptography & Blockchain Panel
-Do You Really Know Your Response Times?
-Assuring Crypto Code with Automated Reasoning
-How to Backdoor Invulnerable Code
-Microsoft Bot Framework Best Practices
-Spotify's Reliable Event Delivery System
-Real World Java 9
-Practical Blockchains: Building on Bitcoin
-Observability Open Space
-Pony: Co-Designing A Type-System And A Run-Time
-Building Secure Player Experiences At Riot Games
-Implementing Your Own Chatbot Platform!
-Distributed Architectures Open Space
-Event Sourcing on the JVM
-Case Study: Alternate Blockchains
-Monitoring Serverless Architectures
-Panel: What's Next for Our Programming Languages?
-Making the Most out of a Bad Day as a Developer
+Real-time & personalized notifications at Twitter
+Thinking strategically about IoT
+Blockchain introduction – peering through the hype
+Avoiding alerts overload From microservices
+SQL server on Linux – will it perform or not?
+Distributed systems theory for practical engineers
+From concurrent to parallel
+Practical cryptography & blockchain panel
+Do you really know your response times?
+Assuring crypto code with automated reasoning
+How to backdoor invulnerable code
+Microsoft Bot Framework best practices
+Spotify's reliable event delivery system
+Real world Java 9
+Practical blockchains – building on Bitcoin
+Pony – co-designing a type system and a runtime
+Building secure player experiences at Riot Games
+Implementing your own chatbot platform!
+Event sourcing on the JVM
+Case Study – alternate blockchains
+Monitoring serverless architectures
+Panel – what's next for our programming languages?
+Making the most out of a bad day as a Developer
 DevOps, microservices, and stress-free incidents
-Straggler Free Data Processing in Cloud Dataflow
-Using FlameGraphs To Illuminate The JVM
-Big Ideas: Decentralised Storage
-After Acceptance: Reasoning About System Outputs
-Property-Based Testing In Practice
-Out of the Browser Into the Fire
-Agile to DevOps. A Better Way?
-Causal Consistency For Large Neo4j Clusters
-Java Open Space
-Blockchain: The Oracle Problems
-Observability, Event Sourcing and State Machines
-Power of the Log:LSM & Append Only Data Structures
-This Will Cut You: Go's Sharper Edges
+Straggler free data processing in cloud dataflow
+Using FlameGraphs to illuminate the JVM
+Big ideas – decentralised storage
+After acceptance – reasoning about system outputs
+Property-based testing in practice
+Out of the browser into the fire
+Agile to DevOps – a better way?
+Causal consistency for large Neo4j clusters
+Blockchain – the Oracle problems
+Observability, event sourcing and state machines
+Power of the Log:LSM & append only data structures
+This will cut you – Go's sharper edges
