@@ -1,0 +1,105 @@
+A dozen cool things we can do with popular JVM languages
+Asynchronous programming with Kotlin coroutines
+Introduction to Kotlin
+Runtime vs compile time (JIT vs AOT) optimizations in Java and C++
+Ten things you can do with GraalVM
+Deep learning for developers
+Deep learning in computer vision
+How Uber builds reliable redeliveries and dead letter queues with Apache Kafka
+Improving safety in real world driving and transportation with Big Data and Internet of Things
+NLP in feedback analysis
+Processing streaming data with KSQL
+Streaming database changes with Debezium
+Blockchain scaling – Lightning Network
+Building a self-driving RC car
+Go Kotlin go!
+How to introduce 3 year old to the world of computers
+Is quantum computing really a thing?
+Building distributed systems in distributed teams
+CONTEXTVS, STVLTE! (Context, stupid!)
+From 6 month waterfall to 1h code deploys
+How to impress your boss and your customer in a modern software development company
+Lessons and experiences of leading a large agile transformation
+Level-up your culture
+Models vs reality – quest for the roots of complexity
+The art of building Java APIs – do's and don'ts
+User stories considered harmful – why product owners and developers failed at gathering requirements and communication
+A hitchhiker's guide to the functional exception handling in Java
+A visual introduction to inner-workings of the JVM
+Back to basics – threads
+Back to the CompletableFuture – concurrency in action
+Don't use reactive streams in Java 9+
+Eclipse collections by example
+Fallacies of doom – lessons learned from porting Doom 3 to Java
+Java performance puzzlers 2018 – new performance puzzles
+Building streaming microservices with Apache Kafka
+Cloud native Java
+Clustered event sourcing and CQRS with Akka and Java
+Lean web apps with skinny miniservices #usetheplatfom
+Lost in transaction – strategies to deal with (in-)consistency in modern architectures
+Reactive web services
+Serverless or serverfull – microservices^functions
+Staying pure and functional with Spring 5 
+A look back at enterprise integration patterns and their use into today's serverless computing
+A mobile-first approach to 3DSecure today
+Architecting for performance – a top-down approach
+CQRS and event sourcing with Spring & Axon
+Contract tests in the enterprise
+Database migrations – the missing link to continuous delivery
+Docs in the self-documenting world
+GraphQL – when REST API is not enough – lessons learned
+Improving your test driven development in 45 minutes
+Innovation without asking permission
+Metrics driven architecture
+Modules or microservices?
+State or events – which shall I keep?
+Testing in production at LinkedIn
+The database unbundled – commit logs in an age of microservices
+Thinking architecturally
+Through the valley of darkness, the road to microservices
+“Zero code” systems – hopes, myths and reality
+Progressive web apps – your web app on steroids
+Angular 5 best practices
+Building serverless interactive applications
+Client says your awesome web app works slowly – now what?
+Dismantling a progressive web app
+From availability & reliability to chaos engineering – why breaking things should be practised
+IPFS and how to distribute the web
+Moving from client side rendering to server side rendering
+The art of web API design
+Creating secure software – benefits from cloud thinking
+Digital life with privacy in mind – how to think about data after Cambridge Analytica?
+Don't be a trojan
+Magic without password, passwordless and federate identity
+Securing customer accounts with streaming analytics
+Advanced pipelines for hypothesis driven development – smart routers, feature toggles, and service mesh
+Fn project – an open source container native serverless platform
+Microservices in action at the Dutch National Police
+Serverless – the future of the cloud?!
+Spring, functions, serverless and you
+Top performance challenges in distributed architectures
+When Terraform alone isn't enough
+Practicing the Java 9 module system
+Intro to gRPC
+Measuring quality of design
+Blockchain by code examples
+Hack your way to application security
+WebGoat – teaching application security 101
+Istio – service mesh & dark canaries
+Java EE microservices with Thorntail and OpenShift
+Why Go?
+DSL – do super language with Kotlin
+Stream processing in telco with Apache Flink & TouK Nussknacker
+Blockchain for dummies
+Spock vs JUnit 5 – clash of the titans
+Riders on the storm – API gateways for developers
+NoSQL means no security?
+Infrastructure as a code simplified by conventions
+Synchronous replication across data center for messaging system at Uber
+Java EE, EE4J and now Jakarta EE? 
+So, you want to be a speaker
+HabitatOS and Bioastronautics research at LunAres habitat
+Algorithms to live by – the computer science of human decisions
+Where does the real world end – the blurring of the physical and digital
+Do not walk away from complexity, run
+

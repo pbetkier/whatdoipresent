@@ -1,0 +1,110 @@
+Asynchronous programming with Kotlin coroutines
+Functional Groovy
+Is boilerplate code really so bad?
+It's all about morphisms
+Kotlin for Java programmers
+Scala – beyond the basics
+Springing into Kotlin – how to make the magic even more magical
+Streaming data platforms & Clojure
+Compassion–first design for AI
+Deep learning – the future of artificial intelligence
+How to use AI and Java to train your application to recognize people by name, regardless of aging and weight changes
+Minecraft and reinforcement learning
+Mnemosyne – a distributed bitmapped indexing layer for big data
+The computer science behind a modern distributed data store
+Tools and approaches for migrating big datasets to the cloud
+Building a self–driving RC car
+Exploring space – challenges, innovation, management – lessons for all 
+Quantum computing exposed – hacking nature's computer
+Teaching kids about machine learning
+The future of art
+Accessibility for UX – don't worry, it's much worse than you think
+Apps are making us dumber
+Conway's Law and microservices – a perfect match, or not?
+Engage! Bringing teams together to deliver software that makes a difference
+Life on PaaS – using our development skills in the NoCode world
+Making the shift – employee to entrepreneur
+Not can but should we build it? Lean design driven development 
+One size fits all?
+So you can sleep at night – ethics in software engineering
+The importance of fun in the workplace
+A practical approach to Java Memory Model
+Functional libraries for Java
+Functional programming patterns with Java 8
+Java 8 – the good, the bad and the ugly
+Java SE 9 modules – an introduction
+Let's get lazy – exploring the real power of streams
+The diabolical developer's guide to surviving Java 9 and 10
+To JAR hell and back – a live migration to Java 9
+Easy microservices with JHipster
+Networks and types – the future of Akka
+Real time UI with Apache Kafka streaming analytics of fast data and server push
+Secure microservices made easy with MicroProfile JWT
+Spring Framework 5 – feature highlights & hidden gems
+Dealing with change in event sourced applications
+7 serverless recipes for big data architectures
+Avoid noodling through an architecture's foundations
+Feature toggles – the Good, the Bad, and the ugly
+Istio platform vs Spring and MicroProfile frameworks
+You got arrested by the CAP, you have the right to remain consistent
+gRPC vs REST – let the battle begin!
+A thunk a saga and an epic walk into a bar...
+Building a front end pipeline
+Creating the new Voxxed websites using JHipster, Angular and GitLab
+GraphQL as an alternative approach to REST
+Vue.js – power and flexiblity
+#BackToBasics – HTTP cookies
+Common vulnerabilities you wish your Java app didn't have!
+GDPR – getting data privacy right
+Security in the serverless world
+Security loves dev – healing misunderstanding gap
+Start writing security tests now!
+Containers, VMs, processes – deep dive and learn about your operating system
+A cloud application journey with Helm and Kubernetes
+Are you ready for cloud native Java?
+Autonomous microservices
+Fully serverless, a case study
+Jenkins X – continuous delivery for Kubernetes
+Stop reinventing the wheel with Istio
+Troubleshooting & debugging production microservices in Kubernetes
+Version–controlled infrastructure with GitHub & Terraform
+Make your testing Groovy
+Getting your hands dirty with deep learning in Java
+Testing Java microservices
+Hands–on Axon framework
+From developer to architect
+Java application security the hard way – a workshop for the serious developer
+Kubernetes on AWS hands–on workshop
+Using Istio to build a cloud native service mesh
+Reactive Spring deep dive – building & testing reactive cloud native Java microservices
+Baking a microservice PI(e)
+Parallel and asynchronous programming with streams and CompletableFuture
+Performance tuning in production
+Big data platform for hybrid transaction and analytics processing
+Open data and visualizing with Neo4j
+5 ways to make the OpenJDK community hate you
+Bug wars – episode IV – a new hope
+Data driven postmortems
+Deploy a software factory under 15 minutes
+Flood the UK and Ireland with female tech talent
+Presentation 2.0 – five ways to engage your audience!
+Smarter debugging in the IDE
+AdoptOpenJDK – enhancing OpenJDK's “build, test, contribute” pipeline
+The future of cloud native Java is open!
+AWS certification – why, how, what
+Are you an architectologist?
+Modern WordPress deployment with CI/CD
+WTF is PWA?
+And now for something completely secure
+Security in the age of open source
+Automated testing on steroids – trick for managing test data using Docker snapshots
+Multi env deploys with Terraform as application glue
+Thinking twice about migrating to serverless
+Java EE, EE4J and now Jakarta EE? 
+GDPR for developers
+Beyond the PI – what's next for the hacker in all of us?
+A future without servers
+The mindful developer – the neuroscience of stress management
+Java in 2018 – change is the only constant
+Old is the new new
+
