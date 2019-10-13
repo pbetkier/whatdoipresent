@@ -1,0 +1,110 @@
+Future of cloud native Java is native Java
+A complete waste of time
+Serverless Java - challenges and triumphs
+Cloud native application from scratch
+Gauge + Taiko - BDD for web revived
+Micro frontends - a strive for fully verticalized systems
+Automating your development experience with Atomist
+Java - turbocharged
+Centralized logging patterns
+Kotlin under the covers
+A peek into the black box - how to adopt Java Flight Recorder to improve non-functional testing
+WebAssembly for the masses
+What drives your development?
+YAML considered harmful
+Fantastic performance and where to find it
+How and why we turned our old Java projects into first-class serverless components
+Akka and Kubernetes - the beginning of a beautiful relationship
+Harnessing complex event processing for fraud detection
+Live refactoring workshop - getting rid of dirty code
+Hands-on Java security workshop - how safe is your application?
+Event Sourcing - you are doing it wrong
+Java - migrating to 11 in real app 
+Automated tests - you won't find it in a book!
+The big cloud native FaaS Lebowski
+My love-hate relationship with Android Studio
+Particle accelerators and Java with Quarkus
+Architect's guide to frontend frameworks
+java.util.concurrent for distributed coordination
+Site reliability engineering & distributed services design
+Reactive hardcore - how to build a Publisher<?> and implement own Project Reactor
+Machine learning at LinkedIn
+The future of Java is today
+Stress driven development and how to avoid it
+Micro frontends - extending service-oriented architecture to frontend development
+Be a Kubernetes master without ever leaving your code, debugger, and IntelliJ
+Building a code review culture
+Still 100% Java for frontend development
+Becoming a speaker
+Introduction to Kubernetes
+Building secure serverless applications with AWS Lambda
+Quarkus - a next generation Java runtime
+Data visualization - processing and machine learning (on the JVM!) with Apache Zeppelin Notebooks
+Real-world HTTP performance benchmarking - lessons learned
+Code shrinking techniques with Jakarta EE and MicroProfile #slideless
+Controlling drones with JavaScript
+Testing your message-driven application
+Serverless with Knative
+The survival guide to modern apps AuthN and AuthZ specs
+Evolution of Visual Studio Code Java ecosystem
+Continuous reteaming
+A case for outside-in design
+Developer’s torment - the documentation
+Coroutines and reactive programming - friends or foes?
+Ontrack - how to keep track of your CI/CD mess
+Multiplayer Pac-Man with RSocket
+15 years of Spring in 15 minutes
+Kubernetes - DOs and DONTs
+How to save money on long-term support for Java 11?
+Write better functional Java code
+Spring Framework 5.2 - core container revisited
+Shipping code like a keptn - automating your delivery pipelines so you can focus on code
+Reactive relational database connectivity
+Serverless Jenkins DevOps pipeline with K8s and Spark
+Programming in Kotlin
+Cloud native development with Eclipse MicroProfile and Quarkus on Kubernetes
+Functions and platforms and containers - oh my!
+How to break an 18 yo monolith
+Advanced serverless architectural patterns on AWS
+Talk to me nicely - how to communicate your ideas and speed up your career
+Java on ARM - theory, applications, and workloads
+Thinking architecturally
+When human life depends on software - introduction to safety-critical systems
+Polygot Java EE on the GraalVM
+12 ways of the cloud native warrior
+GraphQL in Java world - let's go for a dive
+Reactive for the impatient - a gentle intro to reactive programming and systems (Java Edition)
+Moving beyond REST - GraphQL and Java
+Understanding low latency JVM GCs
+Kafka mistakes - you won’t work long enough to make all o them…
+Harnessing integration testing with Docker containers
+Building simple CRUD services with Spring Data REST
+Creating asynchronous applications with Kotlin coroutines
+New opportunities for Java developers with GraalVM
+7 deadlier sins of craftsmanship
+Living between Agile culture and DevOps mindset - how to make an impact and feel fulfilled at work
+Taking serverless to the next level
+Orchestrating robot swarms with Java
+Responsible microservices
+Architects suck - architecture rocks!
+Machine learning - the bare math behind libraries
+Best practices from agile development - why is positive thinking so important for software development?
+Building a DSL with GraalVM
+Performance tuning Twitter services with Graal and machine learning
+Micronaut - dragon-slayer (Spring/boot) or just another framework
+Resilient service-to-service calls in a post-Hystrix world
+Small things make huge impact at big scale - lessons learned from creating a real-time personalization platform for 30M users
+Managing business processes in microservice architecture with Spring ecosystem
+Hystrix is dead - now what?
+Build rich web application in Java(Script) without NPM/Node.js dependencies
+Live hack - finding security vulnerabilities before they find you!
+The ultimate introduction to Kubernetes
+Is writing performant code too expensive?
+Move over JDBC - ADBA and R2DBC are coming!
+The Solr tagger and so much more than search
+Mixed paradigms - the method to madness
+Functional programming in Kotlin
+Semantic Event Sourcing - case study of moving from CRUD to log based state management
+Let’s develop on prod - wait, what?!
+Why we should be scared of Shor's Algorithm right now
+Taming code quality in the worst language I know - Bash
