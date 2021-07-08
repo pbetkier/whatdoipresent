@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" @click="nextTalk">
     <h2>Don’t know what to present at a tech conf? Whatever, just talk about...</h2>
     <h1>{{ this.talk }}</h1>
     <ul>
@@ -68,6 +68,9 @@ export default {
 </script>
 
 <style>
+html, body{
+  height: 100%;
+}
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -75,6 +78,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  height: 100%;
 }
 
 h1, h2 {
